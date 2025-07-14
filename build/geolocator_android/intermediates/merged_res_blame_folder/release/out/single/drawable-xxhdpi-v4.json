@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\ZamZam-Client-App-old-version\\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\\build\\geolocator_android\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png",
+        "source": "C:\\Users\\ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\c3c41250e1f56b1f2db1d3ac19d4f46b\\jetified-play-services-base-17.0.0\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "D:\\ZamZam-Client-App-old-version\\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\\build\\geolocator_android\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png",
+        "source": "C:\\Users\\ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\c3c41250e1f56b1f2db1d3ac19d4f46b\\jetified-play-services-base-17.0.0\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "D:\\ZamZam-Client-App-old-version\\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\\build\\geolocator_android\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png",
+        "source": "C:\\Users\\ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\c3c41250e1f56b1f2db1d3ac19d4f46b\\jetified-play-services-base-17.0.0\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "D:\\ZamZam-Client-App-old-version\\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\\build\\geolocator_android\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\googleg_standard_color_18.png",
+        "source": "C:\\Users\\ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\c3c41250e1f56b1f2db1d3ac19d4f46b\\jetified-play-services-base-17.0.0\\res\\drawable-xxhdpi-v4\\googleg_standard_color_18.png"
+    },
+    {
+        "merged": "D:\\ZamZam-Client-App-old-version\\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\\build\\geolocator_android\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\googleg_disabled_color_18.png",
+        "source": "C:\\Users\\ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\c3c41250e1f56b1f2db1d3ac19d4f46b\\jetified-play-services-base-17.0.0\\res\\drawable-xxhdpi-v4\\googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "D:\\ZamZam-Client-App-old-version\\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\\build\\geolocator_android\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png",
+        "source": "C:\\Users\\ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\c3c41250e1f56b1f2db1d3ac19d4f46b\\jetified-play-services-base-17.0.0\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
+    }
+]

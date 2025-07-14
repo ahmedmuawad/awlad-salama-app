@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\ZamZam-Client-App-old-version\\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\\build\\google_api_headers\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-iw\\values-iw.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\36f51210634ee77bae190e60b7f0c6bd\\core-1.6.0\\res\\values-iw\\values-iw.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\ZamZam-Client-App-old-version\\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\\build\\google_api_headers\\intermediates\\res\\merged\\release\\values-iw\\values-iw.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\36f51210634ee77bae190e60b7f0c6bd\\core-1.6.0\\res\\values-iw\\values-iw.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

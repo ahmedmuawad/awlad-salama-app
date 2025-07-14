@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\ZamZam-Client-App-old-version\\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\\build\\google_maps_flutter_android\\intermediates\\res\\merged\\release\\color\\common_google_signin_btn_tint.xml",
+        "source": "C:\\Users\\ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\2a785d6e7d84b42dfd652d0e622ed37d\\jetified-play-services-base-18.0.1\\res\\color\\common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "D:\\ZamZam-Client-App-old-version\\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\\build\\google_maps_flutter_android\\intermediates\\res\\merged\\release\\color\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\2a785d6e7d84b42dfd652d0e622ed37d\\jetified-play-services-base-18.0.1\\res\\color\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "D:\\ZamZam-Client-App-old-version\\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\\build\\google_maps_flutter_android\\intermediates\\res\\merged\\release\\color\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\2a785d6e7d84b42dfd652d0e622ed37d\\jetified-play-services-base-18.0.1\\res\\color\\common_google_signin_btn_text_light.xml"
+    }
+]

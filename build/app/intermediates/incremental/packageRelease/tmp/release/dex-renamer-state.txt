@@ -1,0 +1,4 @@
+#Mon Jul 14 08:10:26 EET 2025
+base.0=D\:\\ZamZam-Client-App-old-version\\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

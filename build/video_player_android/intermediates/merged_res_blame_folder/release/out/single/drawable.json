@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\ZamZam-Client-App-old-version\\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\\build\\video_player_android\\intermediates\\res\\merged\\release\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\f01fb30c78a2763078b64e90f11051c1\\core-1.7.0\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "D:\\ZamZam-Client-App-old-version\\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\\build\\video_player_android\\intermediates\\res\\merged\\release\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\f01fb30c78a2763078b64e90f11051c1\\core-1.7.0\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "D:\\ZamZam-Client-App-old-version\\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\\build\\video_player_android\\intermediates\\res\\merged\\release\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\f01fb30c78a2763078b64e90f11051c1\\core-1.7.0\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "D:\\ZamZam-Client-App-old-version\\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\\build\\video_player_android\\intermediates\\res\\merged\\release\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\f01fb30c78a2763078b64e90f11051c1\\core-1.7.0\\res\\drawable\\notification_tile_bg.xml"
+    }
+]

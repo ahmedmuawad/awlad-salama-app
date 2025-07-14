@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\ZamZam-Client-App-old-version\\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\\build\\connectivity\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png",
+        "source": "C:\\Users\\ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\36f51210634ee77bae190e60b7f0c6bd\\core-1.6.0\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "D:\\ZamZam-Client-App-old-version\\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\\build\\connectivity\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png",
+        "source": "C:\\Users\\ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\36f51210634ee77bae190e60b7f0c6bd\\core-1.6.0\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "D:\\ZamZam-Client-App-old-version\\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\\build\\connectivity\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png",
+        "source": "C:\\Users\\ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\36f51210634ee77bae190e60b7f0c6bd\\core-1.6.0\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "D:\\ZamZam-Client-App-old-version\\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\\build\\connectivity\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\notification_bg_normal.9.png",
+        "source": "C:\\Users\\ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\36f51210634ee77bae190e60b7f0c6bd\\core-1.6.0\\res\\drawable-xhdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "D:\\ZamZam-Client-App-old-version\\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\\build\\connectivity\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png",
+        "source": "C:\\Users\\ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\36f51210634ee77bae190e60b7f0c6bd\\core-1.6.0\\res\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png"
+    }
+]

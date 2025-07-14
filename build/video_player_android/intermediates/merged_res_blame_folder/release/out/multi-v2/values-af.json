@@ -1,0 +1,68 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\ZamZam-Client-App-old-version\\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\\build\\video_player_android\\intermediates\\res\\merged\\release\\values-af\\values-af.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\c6bec50dbf24814d801c54b11adaee65\\jetified-exoplayer-core-2.18.1\\res\\values-af\\values-af.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,124,184,250,317,392,462,551,635",
+                        "endColumns": "68,59,65,66,74,69,88,83,71",
+                        "endOffsets": "119,179,245,312,387,457,546,630,702"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\f01fb30c78a2763078b64e90f11051c1\\core-1.7.0\\res\\values-af\\values-af.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "11",
+                        "startColumns": "4",
+                        "startOffsets": "707",
+                        "endColumns": "100",
+                        "endOffsets": "803"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\ZamZam-Client-App-old-version\\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\\build\\video_player_android\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-af\\values-af.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\c6bec50dbf24814d801c54b11adaee65\\jetified-exoplayer-core-2.18.1\\res\\values-af\\values-af.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,124,184,250,317,392,462,551,635",
+                        "endColumns": "68,59,65,66,74,69,88,83,71",
+                        "endOffsets": "119,179,245,312,387,457,546,630,702"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\f01fb30c78a2763078b64e90f11051c1\\core-1.7.0\\res\\values-af\\values-af.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "11",
+                        "startColumns": "4",
+                        "startOffsets": "707",
+                        "endColumns": "100",
+                        "endOffsets": "803"
+                    }
+                }
+            ]
+        }
+    ]
+}

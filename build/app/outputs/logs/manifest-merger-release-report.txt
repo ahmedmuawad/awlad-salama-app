@@ -1,0 +1,730 @@
+-- Merging decision tree log ---
+application
+INJECTED from D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\android\app\src\main\AndroidManifest.xml:28:5-74:19
+MERGED from [:firebase_messaging] D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:11:5-44:19
+MERGED from [:firebase_messaging] D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:11:5-44:19
+MERGED from [:firebase_core] D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\build\firebase_core\intermediates\library_manifest\release\AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_core] D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\build\firebase_core\intermediates\library_manifest\release\AndroidManifest.xml:7:5-13:19
+MERGED from [:image_picker] D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\build\image_picker\intermediates\library_manifest\release\AndroidManifest.xml:10:5-20:19
+MERGED from [:image_picker] D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\build\image_picker\intermediates\library_manifest\release\AndroidManifest.xml:10:5-20:19
+MERGED from [:flutter_local_notifications] D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\build\flutter_local_notifications\intermediates\library_manifest\release\AndroidManifest.xml:11:5-21:19
+MERGED from [:flutter_local_notifications] D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\build\flutter_local_notifications\intermediates\library_manifest\release\AndroidManifest.xml:11:5-21:19
+MERGED from [:url_launcher_android] D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\build\url_launcher_android\intermediates\library_manifest\release\AndroidManifest.xml:7:5-12:19
+MERGED from [:url_launcher_android] D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\build\url_launcher_android\intermediates\library_manifest\release\AndroidManifest.xml:7:5-12:19
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\1e847d2d2c09773a0273c74d611fd3a2\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\1e847d2d2c09773a0273c74d611fd3a2\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
+MERGED from [com.google.firebase:firebase-messaging:23.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\8ab66f3c09f98ef347b81d37f97e6abf\jetified-firebase-messaging-23.0.0\AndroidManifest.xml:27:5-56:19
+MERGED from [com.google.firebase:firebase-messaging:23.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\8ab66f3c09f98ef347b81d37f97e6abf\jetified-firebase-messaging-23.0.0\AndroidManifest.xml:27:5-56:19
+MERGED from [com.google.firebase:firebase-datatransport:18.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\44e21bb510aefdb865113e79fd584552\jetified-firebase-datatransport-18.0.0\AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.firebase:firebase-datatransport:18.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\44e21bb510aefdb865113e79fd584552\jetified-firebase-datatransport-18.0.0\AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\b70576c7eb4a469996b098e62f512151\jetified-firebase-installations-17.0.0\AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\b70576c7eb4a469996b098e62f512151\jetified-firebase-installations-17.0.0\AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\e8f22e6ea13d6fcae304c965b13ec4b5\jetified-firebase-common-20.0.0\AndroidManifest.xml:25:5-38:19
+MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\e8f22e6ea13d6fcae304c965b13ec4b5\jetified-firebase-common-20.0.0\AndroidManifest.xml:25:5-38:19
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\ece1e5ac54e3b74084899a424a1af019\jetified-play-services-stats-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\ece1e5ac54e3b74084899a424a1af019\jetified-play-services-stats-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\3fb1b16227f0dfa9581258288b977cc7\jetified-play-services-maps-18.0.2\AndroidManifest.xml:36:5-42:19
+MERGED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\3fb1b16227f0dfa9581258288b977cc7\jetified-play-services-maps-18.0.2\AndroidManifest.xml:36:5-42:19
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\ce09f80405e71f8b1bee4db279edad0e\jetified-play-services-location-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\ce09f80405e71f8b1bee4db279edad0e\jetified-play-services-location-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\2a785d6e7d84b42dfd652d0e622ed37d\jetified-play-services-base-18.0.1\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\2a785d6e7d84b42dfd652d0e622ed37d\jetified-play-services-base-18.0.1\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\0f84001f449e6e81c11779a72f9df0aa\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\0f84001f449e6e81c11779a72f9df0aa\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\d8e6913cb9ace0d3e118ba427d090c78\jetified-firebase-iid-interop-17.1.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\d8e6913cb9ace0d3e118ba427d090c78\jetified-firebase-iid-interop-17.1.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\465249c36c788266000c16af0524f313\jetified-firebase-measurement-connector-19.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\465249c36c788266000c16af0524f313\jetified-firebase-measurement-connector-19.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\4b68ae970ff9d7dfd57aca41a6a8e6b0\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\4b68ae970ff9d7dfd57aca41a6a8e6b0\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\3299b3057460f340e13b4053db114bce\jetified-play-services-basement-18.0.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\3299b3057460f340e13b4053db114bce\jetified-play-services-basement-18.0.0\AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.core:core:1.7.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\f01fb30c78a2763078b64e90f11051c1\core-1.7.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.7.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\f01fb30c78a2763078b64e90f11051c1\core-1.7.0\AndroidManifest.xml:24:5-89
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\731b3232bf48d223be3c6821045ae73e\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\731b3232bf48d223be3c6821045ae73e\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\edf3db9e00e10f1acf2eace18a5d0f87\jetified-transport-runtime-3.0.0\AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\edf3db9e00e10f1acf2eace18a5d0f87\jetified-transport-runtime-3.0.0\AndroidManifest.xml:25:5-39:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\2482792099b3bf7e8ed06f123909847f\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\2482792099b3bf7e8ed06f123909847f\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [com.jakewharton.threetenabp:threetenabp:1.2.3] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\c78f650543122b510c48722d4311c2ed\jetified-threetenabp-1.2.3\AndroidManifest.xml:7:5-20
+MERGED from [com.jakewharton.threetenabp:threetenabp:1.2.3] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\c78f650543122b510c48722d4311c2ed\jetified-threetenabp-1.2.3\AndroidManifest.xml:7:5-20
+	android:requestLegacyExternalStorage
+		ADDED from D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\android\app\src\main\AndroidManifest.xml:31:9-52
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.7.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\f01fb30c78a2763078b64e90f11051c1\core-1.7.0\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\android\app\src\main\AndroidManifest.xml:33:9-36
+	android:icon
+		ADDED from D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\android\app\src\main\AndroidManifest.xml:30:9-43
+	android:usesCleartextTraffic
+		ADDED from D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\android\app\src\main\AndroidManifest.xml:32:9-44
+	android:name
+		INJECTED from D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\android\app\src\main\AndroidManifest.xml:29:9-42
+manifest
+ADDED from D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\android\app\src\main\AndroidManifest.xml:1:1-75:12
+INJECTED from D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\android\app\src\main\AndroidManifest.xml:1:1-75:12
+INJECTED from D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\android\app\src\main\AndroidManifest.xml:1:1-75:12
+INJECTED from D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\android\app\src\main\AndroidManifest.xml:1:1-75:12
+MERGED from [:firebase_messaging] D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:2:1-46:12
+MERGED from [:firebase_core] D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\build\firebase_core\intermediates\library_manifest\release\AndroidManifest.xml:2:1-15:12
+MERGED from [:geolocator_android] D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\build\geolocator_android\intermediates\library_manifest\release\AndroidManifest.xml:2:1-7:12
+MERGED from [:image_picker] D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\build\image_picker\intermediates\library_manifest\release\AndroidManifest.xml:2:1-22:12
+MERGED from [:google_maps_flutter_android] D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\build\google_maps_flutter_android\intermediates\library_manifest\release\AndroidManifest.xml:2:1-7:12
+MERGED from [:flutter_plugin_android_lifecycle] D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\build\flutter_plugin_android_lifecycle\intermediates\library_manifest\release\AndroidManifest.xml:2:1-7:12
+MERGED from [:flutter_local_notifications] D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\build\flutter_local_notifications\intermediates\library_manifest\release\AndroidManifest.xml:2:1-23:12
+MERGED from [:url_launcher_android] D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\build\url_launcher_android\intermediates\library_manifest\release\AndroidManifest.xml:2:1-14:12
+MERGED from [:path_provider_android] D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\build\path_provider_android\intermediates\library_manifest\release\AndroidManifest.xml:2:1-7:12
+MERGED from [:wakelock] D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\build\wakelock\intermediates\library_manifest\release\AndroidManifest.xml:2:1-7:12
+MERGED from [:webview_flutter_android] D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\build\webview_flutter_android\intermediates\library_manifest\release\AndroidManifest.xml:2:1-7:12
+MERGED from [:shared_preferences_android] D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\build\shared_preferences_android\intermediates\library_manifest\release\AndroidManifest.xml:2:1-7:12
+MERGED from [:connectivity] D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\build\connectivity\intermediates\library_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [:geocoding] D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\build\geocoding\intermediates\library_manifest\release\AndroidManifest.xml:2:1-7:12
+MERGED from [:flutter_keyboard_visibility] D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\build\flutter_keyboard_visibility\intermediates\library_manifest\release\AndroidManifest.xml:2:1-7:12
+MERGED from [:google_api_headers] D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\build\google_api_headers\intermediates\library_manifest\release\AndroidManifest.xml:2:1-7:12
+MERGED from [:package_info_plus] D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\build\package_info_plus\intermediates\library_manifest\release\AndroidManifest.xml:2:1-7:12
+MERGED from [:phone_number] D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\build\phone_number\intermediates\library_manifest\release\AndroidManifest.xml:2:1-7:12
+MERGED from [:video_player_android] D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\build\video_player_android\intermediates\library_manifest\release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\f34c7c736a5606506030d10e7da70b01\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\1e847d2d2c09773a0273c74d611fd3a2\jetified-window-1.0.0-beta04\AndroidManifest.xml:17:1-33:12
+MERGED from [com.google.firebase:firebase-messaging:23.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\8ab66f3c09f98ef347b81d37f97e6abf\jetified-firebase-messaging-23.0.0\AndroidManifest.xml:17:1-58:12
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\923c16ea7dc7c7d6812f0c6295297590\multidex-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-datatransport:18.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\44e21bb510aefdb865113e79fd584552\jetified-firebase-datatransport-18.0.0\AndroidManifest.xml:15:1-34:12
+MERGED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\b70576c7eb4a469996b098e62f512151\jetified-firebase-installations-17.0.0\AndroidManifest.xml:2:1-24:12
+MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\e8f22e6ea13d6fcae304c965b13ec4b5\jetified-firebase-common-20.0.0\AndroidManifest.xml:15:1-40:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\df92eec5301b78e7496b74817cdf21c6\exifinterface-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.webkit:webkit:1.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\04774332d1d784bd0e20bc1a70b0ed02\webkit-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.18.1] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\9598a05501d4f71129216a762914eb6e\jetified-exoplayer-hls-2.18.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.18.1] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\1b7957bbe4524ccb8aa029ef112b10ab\jetified-exoplayer-dash-2.18.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.18.1] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\50d1435d9e1cc7c7d02469ec033789a4\jetified-exoplayer-smoothstreaming-2.18.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.18.1] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\c6bec50dbf24814d801c54b11adaee65\jetified-exoplayer-core-2.18.1\AndroidManifest.xml:17:1-26:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\ece1e5ac54e3b74084899a424a1af019\jetified-play-services-stats-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\42d24c624a86c9a26eb8b432a2e06d3f\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\e11dd6e2fda035c45defe86f5c94ac23\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\3fb1b16227f0dfa9581258288b977cc7\jetified-play-services-maps-18.0.2\AndroidManifest.xml:17:1-44:12
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\ce09f80405e71f8b1bee4db279edad0e\jetified-play-services-location-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\2a785d6e7d84b42dfd652d0e622ed37d\jetified-play-services-base-18.0.1\AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\0f84001f449e6e81c11779a72f9df0aa\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\5797b7f962d6572f87fb4115a5f8e0ed\jetified-play-services-cloud-messaging-17.0.0\AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\d8e6913cb9ace0d3e118ba427d090c78\jetified-firebase-iid-interop-17.1.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\465249c36c788266000c16af0524f313\jetified-firebase-measurement-connector-19.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.firebase:firebase-installations-interop:17.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\3d968218c77f97b895f6ef04eddf9924\jetified-firebase-installations-interop-17.0.0\AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\4b68ae970ff9d7dfd57aca41a6a8e6b0\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\3299b3057460f340e13b4053db114bce\jetified-play-services-basement-18.0.0\AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\5cb8288d17e58ce1f18009eecca5a969\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\e0dbdde715b9cd75958a18534c9134bc\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.1.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\979c4e645ba20764817f9dbeae48e59d\media-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\70eae9aefb3c4e6d5c3a7ee307fc0ca1\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\5a7b1751628d4f7a80b242990324623b\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\99745e063a8a8a7abb24d0d8b46fb94e\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\62b012bd1da86baa6f97f595b2422230\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.7.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\f01fb30c78a2763078b64e90f11051c1\core-1.7.0\AndroidManifest.xml:17:1-26:12
+MERGED from [com.google.android.exoplayer:exoplayer-datasource:2.18.1] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\29a3945193549a9d59ba5f39e8143214\jetified-exoplayer-datasource-2.18.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.18.1] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\9ed9f4d0e64aa38b830305954c9093a0\jetified-exoplayer-extractor-2.18.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-decoder:2.18.1] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\13134727d2401f7104078a66bbbe517c\jetified-exoplayer-decoder-2.18.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-database:2.18.1] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\24b78bfd508a7c69ede3233eedcba0a0\jetified-exoplayer-database-2.18.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.18.1] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\b0273c6d1d86fa56c8358ee445c61968\jetified-exoplayer-common-2.18.1\AndroidManifest.xml:17:1-26:12
+MERGED from [com.google.firebase:firebase-components:17.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\c3321bdfda094782024935c6f85a4196\jetified-firebase-components-17.0.0\AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\731b3232bf48d223be3c6821045ae73e\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\edf3db9e00e10f1acf2eace18a5d0f87\jetified-transport-runtime-3.0.0\AndroidManifest.xml:15:1-41:12
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\7e432ed9f753f4230ba6281bbf18c0af\jetified-transport-api-3.0.0\AndroidManifest.xml:15:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\2482792099b3bf7e8ed06f123909847f\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\a5f0765ea4fbdad877a75e0f75b097ba\lifecycle-runtime-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\e0a8c31ff50c2605ff4e6f24e1257af8\jetified-firebase-encoders-json-18.0.0\AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\dec019eada68985a04887b499f9957f2\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\2781bf106efa8213a0a5aec68d844b0a\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\8839b55d97bb0cbcc5db19424bc59c1a\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\e987c6c4f23d19e09c11af8d0e98e03e\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\d682b3109a47bb51131c230355018f38\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\f30026b6a888c0c120c0497989e7c460\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\0329165f705d8b6775f37215272c9726\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.jakewharton.threetenabp:threetenabp:1.2.3] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\c78f650543122b510c48722d4311c2ed\jetified-threetenabp-1.2.3\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\54b4363bedb86f0d07e035449fbd8390\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+INJECTED from D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\android\app\src\main\AndroidManifest.xml:1:1-75:12
+INJECTED from D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\android\app\src\main\AndroidManifest.xml:1:1-75:12
+INJECTED from D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\android\app\src\main\AndroidManifest.xml:1:1-75:12
+	package
+		ADDED from D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\android\app\src\main\AndroidManifest.xml:2:5-39
+		INJECTED from D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\android\app\src\main\AndroidManifest.xml:1:1-75:12
+		INJECTED from D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\android\app\src\main\AndroidManifest.xml:1:1-75:12
+		INJECTED from D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\android\app\src\main\AndroidManifest.xml:8:5-67
+MERGED from [:firebase_messaging] D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:7:5-67
+MERGED from [:firebase_messaging] D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:7:5-67
+MERGED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\b70576c7eb4a469996b098e62f512151\jetified-firebase-installations-17.0.0\AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\b70576c7eb4a469996b098e62f512151\jetified-firebase-installations-17.0.0\AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\3fb1b16227f0dfa9581258288b977cc7\jetified-play-services-maps-18.0.2\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\3fb1b16227f0dfa9581258288b977cc7\jetified-play-services-maps-18.0.2\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\5797b7f962d6572f87fb4115a5f8e0ed\jetified-play-services-cloud-messaging-17.0.0\AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\5797b7f962d6572f87fb4115a5f8e0ed\jetified-play-services-cloud-messaging-17.0.0\AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\731b3232bf48d223be3c6821045ae73e\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:26:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\731b3232bf48d223be3c6821045ae73e\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:26:5-67
+	android:name
+		ADDED from D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\android\app\src\main\AndroidManifest.xml:8:22-64
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\android\app\src\main\AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\android\app\src\main\AndroidManifest.xml:9:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\android\app\src\main\AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\android\app\src\main\AndroidManifest.xml:10:22-78
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\android\app\src\main\AndroidManifest.xml:11:5-79
+MERGED from [:firebase_messaging] D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:9:5-79
+MERGED from [:firebase_messaging] D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:9:5-79
+MERGED from [:connectivity] D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\build\connectivity\intermediates\library_manifest\release\AndroidManifest.xml:7:5-79
+MERGED from [:connectivity] D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\build\connectivity\intermediates\library_manifest\release\AndroidManifest.xml:7:5-79
+MERGED from [com.google.firebase:firebase-messaging:23.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\8ab66f3c09f98ef347b81d37f97e6abf\jetified-firebase-messaging-23.0.0\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-messaging:23.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\8ab66f3c09f98ef347b81d37f97e6abf\jetified-firebase-messaging-23.0.0\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\b70576c7eb4a469996b098e62f512151\jetified-firebase-installations-17.0.0\AndroidManifest.xml:10:5-79
+MERGED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\b70576c7eb4a469996b098e62f512151\jetified-firebase-installations-17.0.0\AndroidManifest.xml:10:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.18.1] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\c6bec50dbf24814d801c54b11adaee65\jetified-exoplayer-core-2.18.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.18.1] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\c6bec50dbf24814d801c54b11adaee65\jetified-exoplayer-core-2.18.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\3fb1b16227f0dfa9581258288b977cc7\jetified-play-services-maps-18.0.2\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\3fb1b16227f0dfa9581258288b977cc7\jetified-play-services-maps-18.0.2\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\5797b7f962d6572f87fb4115a5f8e0ed\jetified-play-services-cloud-messaging-17.0.0\AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\5797b7f962d6572f87fb4115a5f8e0ed\jetified-play-services-cloud-messaging-17.0.0\AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.18.1] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\b0273c6d1d86fa56c8358ee445c61968\jetified-exoplayer-common-2.18.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.18.1] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\b0273c6d1d86fa56c8358ee445c61968\jetified-exoplayer-common-2.18.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\731b3232bf48d223be3c6821045ae73e\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\731b3232bf48d223be3c6821045ae73e\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\edf3db9e00e10f1acf2eace18a5d0f87\jetified-transport-runtime-3.0.0\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\edf3db9e00e10f1acf2eace18a5d0f87\jetified-transport-runtime-3.0.0\AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\android\app\src\main\AndroidManifest.xml:11:22-76
+queries
+ADDED from D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\android\app\src\main\AndroidManifest.xml:13:5-26:15
+MERGED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\3fb1b16227f0dfa9581258288b977cc7\jetified-play-services-maps-18.0.2\AndroidManifest.xml:30:5-34:15
+MERGED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\3fb1b16227f0dfa9581258288b977cc7\jetified-play-services-maps-18.0.2\AndroidManifest.xml:30:5-34:15
+intent#action:name:android.intent.action.VIEW+data:scheme:https
+ADDED from D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\android\app\src\main\AndroidManifest.xml:14:9-17:18
+action#android.intent.action.VIEW
+ADDED from D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\android\app\src\main\AndroidManifest.xml:15:13-65
+	android:name
+		ADDED from D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\android\app\src\main\AndroidManifest.xml:15:21-62
+data
+ADDED from D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\android\app\src\main\AndroidManifest.xml:16:13-44
+	android:scheme
+		ADDED from D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\android\app\src\main\AndroidManifest.xml:16:19-41
+	android:mimeType
+		ADDED from D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\android\app\src\main\AndroidManifest.xml:24:19-41
+intent#action:name:android.intent.action.DIAL+data:scheme:tel
+ADDED from D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\android\app\src\main\AndroidManifest.xml:18:9-21:18
+action#android.intent.action.DIAL
+ADDED from D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\android\app\src\main\AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\android\app\src\main\AndroidManifest.xml:19:21-62
+intent#action:name:android.intent.action.SEND+data:mimeType:*/*
+ADDED from D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\android\app\src\main\AndroidManifest.xml:22:9-25:18
+action#android.intent.action.SEND
+ADDED from D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\android\app\src\main\AndroidManifest.xml:23:13-65
+	android:name
+		ADDED from D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\android\app\src\main\AndroidManifest.xml:23:21-62
+uses-sdk
+INJECTED from D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\android\app\src\main\AndroidManifest.xml
+INJECTED from D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\android\app\src\main\AndroidManifest.xml
+MERGED from [:firebase_messaging] D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_messaging] D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core] D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\build\firebase_core\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core] D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\build\firebase_core\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:geolocator_android] D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\build\geolocator_android\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:geolocator_android] D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\build\geolocator_android\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:image_picker] D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\build\image_picker\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:image_picker] D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\build\image_picker\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:google_maps_flutter_android] D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\build\google_maps_flutter_android\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:google_maps_flutter_android] D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\build\google_maps_flutter_android\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\build\flutter_plugin_android_lifecycle\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\build\flutter_plugin_android_lifecycle\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_local_notifications] D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\build\flutter_local_notifications\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_local_notifications] D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\build\flutter_local_notifications\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher_android] D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\build\url_launcher_android\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher_android] D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\build\url_launcher_android\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:path_provider_android] D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\build\path_provider_android\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:path_provider_android] D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\build\path_provider_android\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:wakelock] D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\build\wakelock\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:wakelock] D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\build\wakelock\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:webview_flutter_android] D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\build\webview_flutter_android\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:webview_flutter_android] D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\build\webview_flutter_android\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences_android] D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\build\shared_preferences_android\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences_android] D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\build\shared_preferences_android\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:connectivity] D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\build\connectivity\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:connectivity] D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\build\connectivity\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:geocoding] D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\build\geocoding\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:geocoding] D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\build\geocoding\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_keyboard_visibility] D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\build\flutter_keyboard_visibility\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_keyboard_visibility] D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\build\flutter_keyboard_visibility\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:google_api_headers] D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\build\google_api_headers\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:google_api_headers] D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\build\google_api_headers\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:package_info_plus] D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\build\package_info_plus\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:package_info_plus] D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\build\package_info_plus\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:phone_number] D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\build\phone_number\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:phone_number] D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\build\phone_number\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:video_player_android] D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\build\video_player_android\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:video_player_android] D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\build\video_player_android\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\f34c7c736a5606506030d10e7da70b01\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\f34c7c736a5606506030d10e7da70b01\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\1e847d2d2c09773a0273c74d611fd3a2\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\1e847d2d2c09773a0273c74d611fd3a2\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-messaging:23.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\8ab66f3c09f98ef347b81d37f97e6abf\jetified-firebase-messaging-23.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:23.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\8ab66f3c09f98ef347b81d37f97e6abf\jetified-firebase-messaging-23.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\923c16ea7dc7c7d6812f0c6295297590\multidex-2.0.0\AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\923c16ea7dc7c7d6812f0c6295297590\multidex-2.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-datatransport:18.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\44e21bb510aefdb865113e79fd584552\jetified-firebase-datatransport-18.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-datatransport:18.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\44e21bb510aefdb865113e79fd584552\jetified-firebase-datatransport-18.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\b70576c7eb4a469996b098e62f512151\jetified-firebase-installations-17.0.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\b70576c7eb4a469996b098e62f512151\jetified-firebase-installations-17.0.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\e8f22e6ea13d6fcae304c965b13ec4b5\jetified-firebase-common-20.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\e8f22e6ea13d6fcae304c965b13ec4b5\jetified-firebase-common-20.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\df92eec5301b78e7496b74817cdf21c6\exifinterface-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\df92eec5301b78e7496b74817cdf21c6\exifinterface-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.webkit:webkit:1.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\04774332d1d784bd0e20bc1a70b0ed02\webkit-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.webkit:webkit:1.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\04774332d1d784bd0e20bc1a70b0ed02\webkit-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.18.1] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\9598a05501d4f71129216a762914eb6e\jetified-exoplayer-hls-2.18.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.18.1] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\9598a05501d4f71129216a762914eb6e\jetified-exoplayer-hls-2.18.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.18.1] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\1b7957bbe4524ccb8aa029ef112b10ab\jetified-exoplayer-dash-2.18.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.18.1] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\1b7957bbe4524ccb8aa029ef112b10ab\jetified-exoplayer-dash-2.18.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.18.1] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\50d1435d9e1cc7c7d02469ec033789a4\jetified-exoplayer-smoothstreaming-2.18.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.18.1] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\50d1435d9e1cc7c7d02469ec033789a4\jetified-exoplayer-smoothstreaming-2.18.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.18.1] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\c6bec50dbf24814d801c54b11adaee65\jetified-exoplayer-core-2.18.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.18.1] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\c6bec50dbf24814d801c54b11adaee65\jetified-exoplayer-core-2.18.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\ece1e5ac54e3b74084899a424a1af019\jetified-play-services-stats-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\ece1e5ac54e3b74084899a424a1af019\jetified-play-services-stats-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\42d24c624a86c9a26eb8b432a2e06d3f\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\42d24c624a86c9a26eb8b432a2e06d3f\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\e11dd6e2fda035c45defe86f5c94ac23\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\e11dd6e2fda035c45defe86f5c94ac23\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\3fb1b16227f0dfa9581258288b977cc7\jetified-play-services-maps-18.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\3fb1b16227f0dfa9581258288b977cc7\jetified-play-services-maps-18.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\ce09f80405e71f8b1bee4db279edad0e\jetified-play-services-location-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\ce09f80405e71f8b1bee4db279edad0e\jetified-play-services-location-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\2a785d6e7d84b42dfd652d0e622ed37d\jetified-play-services-base-18.0.1\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\2a785d6e7d84b42dfd652d0e622ed37d\jetified-play-services-base-18.0.1\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\0f84001f449e6e81c11779a72f9df0aa\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\0f84001f449e6e81c11779a72f9df0aa\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\5797b7f962d6572f87fb4115a5f8e0ed\jetified-play-services-cloud-messaging-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\5797b7f962d6572f87fb4115a5f8e0ed\jetified-play-services-cloud-messaging-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\d8e6913cb9ace0d3e118ba427d090c78\jetified-firebase-iid-interop-17.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\d8e6913cb9ace0d3e118ba427d090c78\jetified-firebase-iid-interop-17.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\465249c36c788266000c16af0524f313\jetified-firebase-measurement-connector-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\465249c36c788266000c16af0524f313\jetified-firebase-measurement-connector-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-installations-interop:17.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\3d968218c77f97b895f6ef04eddf9924\jetified-firebase-installations-interop-17.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-installations-interop:17.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\3d968218c77f97b895f6ef04eddf9924\jetified-firebase-installations-interop-17.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\4b68ae970ff9d7dfd57aca41a6a8e6b0\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\4b68ae970ff9d7dfd57aca41a6a8e6b0\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\3299b3057460f340e13b4053db114bce\jetified-play-services-basement-18.0.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\3299b3057460f340e13b4053db114bce\jetified-play-services-basement-18.0.0\AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\5cb8288d17e58ce1f18009eecca5a969\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\5cb8288d17e58ce1f18009eecca5a969\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\e0dbdde715b9cd75958a18534c9134bc\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\e0dbdde715b9cd75958a18534c9134bc\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.1.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\979c4e645ba20764817f9dbeae48e59d\media-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.1.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\979c4e645ba20764817f9dbeae48e59d\media-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\70eae9aefb3c4e6d5c3a7ee307fc0ca1\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\70eae9aefb3c4e6d5c3a7ee307fc0ca1\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\5a7b1751628d4f7a80b242990324623b\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\5a7b1751628d4f7a80b242990324623b\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\99745e063a8a8a7abb24d0d8b46fb94e\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\99745e063a8a8a7abb24d0d8b46fb94e\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\62b012bd1da86baa6f97f595b2422230\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\62b012bd1da86baa6f97f595b2422230\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.7.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\f01fb30c78a2763078b64e90f11051c1\core-1.7.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\f01fb30c78a2763078b64e90f11051c1\core-1.7.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-datasource:2.18.1] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\29a3945193549a9d59ba5f39e8143214\jetified-exoplayer-datasource-2.18.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-datasource:2.18.1] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\29a3945193549a9d59ba5f39e8143214\jetified-exoplayer-datasource-2.18.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.18.1] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\9ed9f4d0e64aa38b830305954c9093a0\jetified-exoplayer-extractor-2.18.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.18.1] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\9ed9f4d0e64aa38b830305954c9093a0\jetified-exoplayer-extractor-2.18.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-decoder:2.18.1] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\13134727d2401f7104078a66bbbe517c\jetified-exoplayer-decoder-2.18.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-decoder:2.18.1] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\13134727d2401f7104078a66bbbe517c\jetified-exoplayer-decoder-2.18.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-database:2.18.1] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\24b78bfd508a7c69ede3233eedcba0a0\jetified-exoplayer-database-2.18.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-database:2.18.1] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\24b78bfd508a7c69ede3233eedcba0a0\jetified-exoplayer-database-2.18.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.18.1] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\b0273c6d1d86fa56c8358ee445c61968\jetified-exoplayer-common-2.18.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.18.1] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\b0273c6d1d86fa56c8358ee445c61968\jetified-exoplayer-common-2.18.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-components:17.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\c3321bdfda094782024935c6f85a4196\jetified-firebase-components-17.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:17.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\c3321bdfda094782024935c6f85a4196\jetified-firebase-components-17.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\731b3232bf48d223be3c6821045ae73e\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\731b3232bf48d223be3c6821045ae73e\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\edf3db9e00e10f1acf2eace18a5d0f87\jetified-transport-runtime-3.0.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\edf3db9e00e10f1acf2eace18a5d0f87\jetified-transport-runtime-3.0.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\7e432ed9f753f4230ba6281bbf18c0af\jetified-transport-api-3.0.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\7e432ed9f753f4230ba6281bbf18c0af\jetified-transport-api-3.0.0\AndroidManifest.xml:18:5-20:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\2482792099b3bf7e8ed06f123909847f\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\2482792099b3bf7e8ed06f123909847f\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\a5f0765ea4fbdad877a75e0f75b097ba\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\a5f0765ea4fbdad877a75e0f75b097ba\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\e0a8c31ff50c2605ff4e6f24e1257af8\jetified-firebase-encoders-json-18.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\e0a8c31ff50c2605ff4e6f24e1257af8\jetified-firebase-encoders-json-18.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\dec019eada68985a04887b499f9957f2\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\dec019eada68985a04887b499f9957f2\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\2781bf106efa8213a0a5aec68d844b0a\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\2781bf106efa8213a0a5aec68d844b0a\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\8839b55d97bb0cbcc5db19424bc59c1a\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\8839b55d97bb0cbcc5db19424bc59c1a\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\e987c6c4f23d19e09c11af8d0e98e03e\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\e987c6c4f23d19e09c11af8d0e98e03e\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\d682b3109a47bb51131c230355018f38\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\d682b3109a47bb51131c230355018f38\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\f30026b6a888c0c120c0497989e7c460\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\f30026b6a888c0c120c0497989e7c460\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\0329165f705d8b6775f37215272c9726\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\0329165f705d8b6775f37215272c9726\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.jakewharton.threetenabp:threetenabp:1.2.3] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\c78f650543122b510c48722d4311c2ed\jetified-threetenabp-1.2.3\AndroidManifest.xml:5:5-44
+MERGED from [com.jakewharton.threetenabp:threetenabp:1.2.3] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\c78f650543122b510c48722d4311c2ed\jetified-threetenabp-1.2.3\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\54b4363bedb86f0d07e035449fbd8390\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\54b4363bedb86f0d07e035449fbd8390\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+INJECTED from D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\android\app\src\main\AndroidManifest.xml
+INJECTED from D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\android\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\android\app\src\main\AndroidManifest.xml
+meta-data#com.google.android.geo.API_KEY
+ADDED from D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\android\app\src\main\AndroidManifest.xml:34:9-36:71
+	android:value
+		ADDED from D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\android\app\src\main\AndroidManifest.xml:36:13-68
+	android:name
+		ADDED from D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\android\app\src\main\AndroidManifest.xml:35:13-58
+activity#com.salamasons.stopgroup.MainActivity
+ADDED from D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\android\app\src\main\AndroidManifest.xml:38:9-68:20
+	android:launchMode
+		ADDED from D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\android\app\src\main\AndroidManifest.xml:42:13-43
+	android:hardwareAccelerated
+		ADDED from D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\android\app\src\main\AndroidManifest.xml:41:13-47
+	android:windowSoftInputMode
+		ADDED from D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\android\app\src\main\AndroidManifest.xml:44:13-55
+	android:configChanges
+		ADDED from D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\android\app\src\main\AndroidManifest.xml:40:13-163
+	android:theme
+		ADDED from D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\android\app\src\main\AndroidManifest.xml:43:13-47
+	android:name
+		ADDED from D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\android\app\src\main\AndroidManifest.xml:39:13-41
+meta-data#io.flutter.embedding.android.NormalTheme
+ADDED from D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\android\app\src\main\AndroidManifest.xml:49:13-51:57
+	android:resource
+		ADDED from D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\android\app\src\main\AndroidManifest.xml:51:17-54
+	android:name
+		ADDED from D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\android\app\src\main\AndroidManifest.xml:50:17-72
+meta-data#io.flutter.embedding.android.SplashScreenDrawable
+ADDED from D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\android\app\src\main\AndroidManifest.xml:57:13-59:66
+	android:resource
+		ADDED from D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\android\app\src\main\AndroidManifest.xml:59:17-63
+	android:name
+		ADDED from D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\android\app\src\main\AndroidManifest.xml:58:17-81
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\android\app\src\main\AndroidManifest.xml:60:13-63:29
+action#android.intent.action.MAIN
+ADDED from D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\android\app\src\main\AndroidManifest.xml:61:17-69
+	android:name
+		ADDED from D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\android\app\src\main\AndroidManifest.xml:61:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\android\app\src\main\AndroidManifest.xml:62:17-77
+	android:name
+		ADDED from D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\android\app\src\main\AndroidManifest.xml:62:27-74
+intent-filter#action:name:FLUTTER_NOTIFICATION_CLICK+category:name:android.intent.category.DEFAULT
+ADDED from D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\android\app\src\main\AndroidManifest.xml:64:13-67:29
+action#FLUTTER_NOTIFICATION_CLICK
+ADDED from D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\android\app\src\main\AndroidManifest.xml:65:17-69
+	android:name
+		ADDED from D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\android\app\src\main\AndroidManifest.xml:65:25-66
+category#android.intent.category.DEFAULT
+ADDED from D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\android\app\src\main\AndroidManifest.xml:66:17-76
+	android:name
+		ADDED from D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\android\app\src\main\AndroidManifest.xml:66:27-73
+meta-data#flutterEmbedding
+ADDED from D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\android\app\src\main\AndroidManifest.xml:71:9-73:33
+	android:value
+		ADDED from D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\android\app\src\main\AndroidManifest.xml:73:13-30
+	android:name
+		ADDED from D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\android\app\src\main\AndroidManifest.xml:72:13-44
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [:firebase_messaging] D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:8:5-68
+MERGED from [com.google.firebase:firebase-messaging:23.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\8ab66f3c09f98ef347b81d37f97e6abf\jetified-firebase-messaging-23.0.0\AndroidManifest.xml:23:5-68
+MERGED from [com.google.firebase:firebase-messaging:23.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\8ab66f3c09f98ef347b81d37f97e6abf\jetified-firebase-messaging-23.0.0\AndroidManifest.xml:23:5-68
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\5797b7f962d6572f87fb4115a5f8e0ed\jetified-play-services-cloud-messaging-17.0.0\AndroidManifest.xml:9:5-68
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\5797b7f962d6572f87fb4115a5f8e0ed\jetified-play-services-cloud-messaging-17.0.0\AndroidManifest.xml:9:5-68
+	android:name
+		ADDED from [:firebase_messaging] D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:8:22-65
+service#io.flutter.plugins.firebase.messaging.FlutterFirebaseMessagingBackgroundService
+ADDED from [:firebase_messaging] D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:12:9-15:72
+	android:exported
+		ADDED from [:firebase_messaging] D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:14:13-37
+	android:permission
+		ADDED from [:firebase_messaging] D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:15:13-69
+	android:name
+		ADDED from [:firebase_messaging] D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:13:13-107
+service#io.flutter.plugins.firebase.messaging.FlutterFirebaseMessagingService
+ADDED from [:firebase_messaging] D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:16:9-22:19
+	android:exported
+		ADDED from [:firebase_messaging] D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:18:13-37
+	android:name
+		ADDED from [:firebase_messaging] D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:17:13-97
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from [:firebase_messaging] D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:19:13-21:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [:firebase_messaging] D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:20:17-78
+	android:name
+		ADDED from [:firebase_messaging] D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:20:25-75
+receiver#io.flutter.plugins.firebase.messaging.FlutterFirebaseMessagingReceiver
+ADDED from [:firebase_messaging] D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:24:9-31:20
+	android:exported
+		ADDED from [:firebase_messaging] D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:26:13-36
+	android:permission
+		ADDED from [:firebase_messaging] D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:27:13-73
+	android:name
+		ADDED from [:firebase_messaging] D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:25:13-98
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [:firebase_messaging] D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:28:13-30:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [:firebase_messaging] D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:29:17-81
+	android:name
+		ADDED from [:firebase_messaging] D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:29:25-78
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [:firebase_messaging] D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:33:9-37:19
+MERGED from [:firebase_core] D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\build\firebase_core\intermediates\library_manifest\release\AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_core] D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\build\firebase_core\intermediates\library_manifest\release\AndroidManifest.xml:8:9-12:19
+MERGED from [com.google.firebase:firebase-messaging:23.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\8ab66f3c09f98ef347b81d37f97e6abf\jetified-firebase-messaging-23.0.0\AndroidManifest.xml:49:9-55:19
+MERGED from [com.google.firebase:firebase-messaging:23.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\8ab66f3c09f98ef347b81d37f97e6abf\jetified-firebase-messaging-23.0.0\AndroidManifest.xml:49:9-55:19
+MERGED from [com.google.firebase:firebase-datatransport:18.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\44e21bb510aefdb865113e79fd584552\jetified-firebase-datatransport-18.0.0\AndroidManifest.xml:25:9-31:19
+MERGED from [com.google.firebase:firebase-datatransport:18.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\44e21bb510aefdb865113e79fd584552\jetified-firebase-datatransport-18.0.0\AndroidManifest.xml:25:9-31:19
+MERGED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\b70576c7eb4a469996b098e62f512151\jetified-firebase-installations-17.0.0\AndroidManifest.xml:15:9-21:19
+MERGED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\b70576c7eb4a469996b098e62f512151\jetified-firebase-installations-17.0.0\AndroidManifest.xml:15:9-21:19
+MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\e8f22e6ea13d6fcae304c965b13ec4b5\jetified-firebase-common-20.0.0\AndroidManifest.xml:33:9-37:35
+MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\e8f22e6ea13d6fcae304c965b13ec4b5\jetified-firebase-common-20.0.0\AndroidManifest.xml:33:9-37:35
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:23.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\8ab66f3c09f98ef347b81d37f97e6abf\jetified-firebase-messaging-23.0.0\AndroidManifest.xml:51:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\e8f22e6ea13d6fcae304c965b13ec4b5\jetified-firebase-common-20.0.0\AndroidManifest.xml:37:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\e8f22e6ea13d6fcae304c965b13ec4b5\jetified-firebase-common-20.0.0\AndroidManifest.xml:35:13-43
+	android:name
+		ADDED from [:firebase_messaging] D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:33:18-89
+meta-data#com.google.firebase.components:io.flutter.plugins.firebase.messaging.FlutterFirebaseAppRegistrar
+ADDED from [:firebase_messaging] D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:34:13-36:85
+	android:value
+		ADDED from [:firebase_messaging] D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:36:17-82
+	android:name
+		ADDED from [:firebase_messaging] D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:35:17-128
+provider#io.flutter.plugins.firebase.messaging.FlutterFirebaseMessagingInitProvider
+ADDED from [:firebase_messaging] D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:39:9-43:38
+	android:authorities
+		ADDED from [:firebase_messaging] D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:41:13-88
+	android:exported
+		ADDED from [:firebase_messaging] D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:42:13-37
+	android:initOrder
+		ADDED from [:firebase_messaging] D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:43:13-35
+	android:name
+		ADDED from [:firebase_messaging] D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:40:13-102
+meta-data#com.google.firebase.components:io.flutter.plugins.firebase.core.FlutterFirebaseCoreRegistrar
+ADDED from [:firebase_core] D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\build\firebase_core\intermediates\library_manifest\release\AndroidManifest.xml:9:13-11:85
+	android:value
+		ADDED from [:firebase_core] D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\build\firebase_core\intermediates\library_manifest\release\AndroidManifest.xml:11:17-82
+	android:name
+		ADDED from [:firebase_core] D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\build\firebase_core\intermediates\library_manifest\release\AndroidManifest.xml:10:17-124
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from [:image_picker] D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\build\image_picker\intermediates\library_manifest\release\AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from [:image_picker] D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\build\image_picker\intermediates\library_manifest\release\AndroidManifest.xml:7:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [:image_picker] D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\build\image_picker\intermediates\library_manifest\release\AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from [:image_picker] D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\build\image_picker\intermediates\library_manifest\release\AndroidManifest.xml:8:22-78
+provider#io.flutter.plugins.imagepicker.ImagePickerFileProvider
+ADDED from [:image_picker] D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\build\image_picker\intermediates\library_manifest\release\AndroidManifest.xml:11:9-19:20
+	android:grantUriPermissions
+		ADDED from [:image_picker] D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\build\image_picker\intermediates\library_manifest\release\AndroidManifest.xml:15:13-47
+	android:authorities
+		ADDED from [:image_picker] D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\build\image_picker\intermediates\library_manifest\release\AndroidManifest.xml:13:13-74
+	android:exported
+		ADDED from [:image_picker] D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\build\image_picker\intermediates\library_manifest\release\AndroidManifest.xml:14:13-37
+	android:name
+		ADDED from [:image_picker] D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\build\image_picker\intermediates\library_manifest\release\AndroidManifest.xml:12:13-82
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:image_picker] D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\build\image_picker\intermediates\library_manifest\release\AndroidManifest.xml:16:13-18:75
+	android:resource
+		ADDED from [:image_picker] D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\build\image_picker\intermediates\library_manifest\release\AndroidManifest.xml:18:17-72
+	android:name
+		ADDED from [:image_picker] D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\build\image_picker\intermediates\library_manifest\release\AndroidManifest.xml:17:17-67
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from [:flutter_local_notifications] D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\build\flutter_local_notifications\intermediates\library_manifest\release\AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from [:flutter_local_notifications] D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\build\flutter_local_notifications\intermediates\library_manifest\release\AndroidManifest.xml:7:22-78
+uses-permission#android.permission.VIBRATE
+ADDED from [:flutter_local_notifications] D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\build\flutter_local_notifications\intermediates\library_manifest\release\AndroidManifest.xml:8:5-66
+	android:name
+		ADDED from [:flutter_local_notifications] D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\build\flutter_local_notifications\intermediates\library_manifest\release\AndroidManifest.xml:8:22-63
+uses-permission#android.permission.USE_FULL_SCREEN_INTENT
+ADDED from [:flutter_local_notifications] D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\build\flutter_local_notifications\intermediates\library_manifest\release\AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from [:flutter_local_notifications] D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\build\flutter_local_notifications\intermediates\library_manifest\release\AndroidManifest.xml:9:22-78
+receiver#com.dexterous.flutterlocalnotifications.ScheduledNotificationReceiver
+ADDED from [:flutter_local_notifications] D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\build\flutter_local_notifications\intermediates\library_manifest\release\AndroidManifest.xml:12:9-106
+	android:name
+		ADDED from [:flutter_local_notifications] D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\build\flutter_local_notifications\intermediates\library_manifest\release\AndroidManifest.xml:12:19-103
+receiver#com.dexterous.flutterlocalnotifications.ScheduledNotificationBootReceiver
+ADDED from [:flutter_local_notifications] D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\build\flutter_local_notifications\intermediates\library_manifest\release\AndroidManifest.xml:13:9-20:20
+	android:name
+		ADDED from [:flutter_local_notifications] D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\build\flutter_local_notifications\intermediates\library_manifest\release\AndroidManifest.xml:13:19-107
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.MY_PACKAGE_REPLACED+action:name:android.intent.action.QUICKBOOT_POWERON+action:name:com.htc.intent.action.QUICKBOOT_POWERON
+ADDED from [:flutter_local_notifications] D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\build\flutter_local_notifications\intermediates\library_manifest\release\AndroidManifest.xml:14:13-19:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from [:flutter_local_notifications] D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\build\flutter_local_notifications\intermediates\library_manifest\release\AndroidManifest.xml:15:17-79
+	android:name
+		ADDED from [:flutter_local_notifications] D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\build\flutter_local_notifications\intermediates\library_manifest\release\AndroidManifest.xml:15:25-76
+action#android.intent.action.MY_PACKAGE_REPLACED
+ADDED from [:flutter_local_notifications] D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\build\flutter_local_notifications\intermediates\library_manifest\release\AndroidManifest.xml:16:17-84
+	android:name
+		ADDED from [:flutter_local_notifications] D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\build\flutter_local_notifications\intermediates\library_manifest\release\AndroidManifest.xml:16:25-81
+action#android.intent.action.QUICKBOOT_POWERON
+ADDED from [:flutter_local_notifications] D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\build\flutter_local_notifications\intermediates\library_manifest\release\AndroidManifest.xml:17:17-82
+	android:name
+		ADDED from [:flutter_local_notifications] D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\build\flutter_local_notifications\intermediates\library_manifest\release\AndroidManifest.xml:17:25-79
+action#com.htc.intent.action.QUICKBOOT_POWERON
+ADDED from [:flutter_local_notifications] D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\build\flutter_local_notifications\intermediates\library_manifest\release\AndroidManifest.xml:18:17-82
+	android:name
+		ADDED from [:flutter_local_notifications] D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\build\flutter_local_notifications\intermediates\library_manifest\release\AndroidManifest.xml:18:25-79
+activity#io.flutter.plugins.urllauncher.WebViewActivity
+ADDED from [:url_launcher_android] D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\build\url_launcher_android\intermediates\library_manifest\release\AndroidManifest.xml:8:9-11:74
+	android:exported
+		ADDED from [:url_launcher_android] D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\build\url_launcher_android\intermediates\library_manifest\release\AndroidManifest.xml:10:13-37
+	android:theme
+		ADDED from [:url_launcher_android] D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\build\url_launcher_android\intermediates\library_manifest\release\AndroidManifest.xml:11:13-71
+	android:name
+		ADDED from [:url_launcher_android] D:\ZamZam-Client-App-old-version\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\build\url_launcher_android\intermediates\library_manifest\release\AndroidManifest.xml:9:13-74
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\1e847d2d2c09773a0273c74d611fd3a2\jetified-window-1.0.0-beta04\AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\1e847d2d2c09773a0273c74d611fd3a2\jetified-window-1.0.0-beta04\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\1e847d2d2c09773a0273c74d611fd3a2\jetified-window-1.0.0-beta04\AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\1e847d2d2c09773a0273c74d611fd3a2\jetified-window-1.0.0-beta04\AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\1e847d2d2c09773a0273c74d611fd3a2\jetified-window-1.0.0-beta04\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\1e847d2d2c09773a0273c74d611fd3a2\jetified-window-1.0.0-beta04\AndroidManifest.xml:29:13-51
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-messaging:23.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\8ab66f3c09f98ef347b81d37f97e6abf\jetified-firebase-messaging-23.0.0\AndroidManifest.xml:25:5-82
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\5797b7f962d6572f87fb4115a5f8e0ed\jetified-play-services-cloud-messaging-17.0.0\AndroidManifest.xml:11:5-82
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\5797b7f962d6572f87fb4115a5f8e0ed\jetified-play-services-cloud-messaging-17.0.0\AndroidManifest.xml:11:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:23.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\8ab66f3c09f98ef347b81d37f97e6abf\jetified-firebase-messaging-23.0.0\AndroidManifest.xml:25:22-79
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-messaging:23.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\8ab66f3c09f98ef347b81d37f97e6abf\jetified-firebase-messaging-23.0.0\AndroidManifest.xml:28:9-35:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:23.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\8ab66f3c09f98ef347b81d37f97e6abf\jetified-firebase-messaging-23.0.0\AndroidManifest.xml:30:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-messaging:23.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\8ab66f3c09f98ef347b81d37f97e6abf\jetified-firebase-messaging-23.0.0\AndroidManifest.xml:31:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:23.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\8ab66f3c09f98ef347b81d37f97e6abf\jetified-firebase-messaging-23.0.0\AndroidManifest.xml:29:13-78
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:23.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\8ab66f3c09f98ef347b81d37f97e6abf\jetified-firebase-messaging-23.0.0\AndroidManifest.xml:41:9-48:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:23.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\8ab66f3c09f98ef347b81d37f97e6abf\jetified-firebase-messaging-23.0.0\AndroidManifest.xml:44:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-messaging:23.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\8ab66f3c09f98ef347b81d37f97e6abf\jetified-firebase-messaging-23.0.0\AndroidManifest.xml:43:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:23.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\8ab66f3c09f98ef347b81d37f97e6abf\jetified-firebase-messaging-23.0.0\AndroidManifest.xml:42:13-82
+meta-data#com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar
+ADDED from [com.google.firebase:firebase-messaging:23.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\8ab66f3c09f98ef347b81d37f97e6abf\jetified-firebase-messaging-23.0.0\AndroidManifest.xml:52:13-54:85
+	android:value
+		ADDED from [com.google.firebase:firebase-messaging:23.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\8ab66f3c09f98ef347b81d37f97e6abf\jetified-firebase-messaging-23.0.0\AndroidManifest.xml:54:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:23.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\8ab66f3c09f98ef347b81d37f97e6abf\jetified-firebase-messaging-23.0.0\AndroidManifest.xml:53:17-119
+meta-data#com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar
+ADDED from [com.google.firebase:firebase-datatransport:18.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\44e21bb510aefdb865113e79fd584552\jetified-firebase-datatransport-18.0.0\AndroidManifest.xml:28:13-30:85
+	android:value
+		ADDED from [com.google.firebase:firebase-datatransport:18.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\44e21bb510aefdb865113e79fd584552\jetified-firebase-datatransport-18.0.0\AndroidManifest.xml:30:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-datatransport:18.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\44e21bb510aefdb865113e79fd584552\jetified-firebase-datatransport-18.0.0\AndroidManifest.xml:29:17-115
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar
+ADDED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\b70576c7eb4a469996b098e62f512151\jetified-firebase-installations-17.0.0\AndroidManifest.xml:18:13-20:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\b70576c7eb4a469996b098e62f512151\jetified-firebase-installations-17.0.0\AndroidManifest.xml:20:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\b70576c7eb4a469996b098e62f512151\jetified-firebase-installations-17.0.0\AndroidManifest.xml:19:17-127
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\e8f22e6ea13d6fcae304c965b13ec4b5\jetified-firebase-common-20.0.0\AndroidManifest.xml:26:9-31:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\e8f22e6ea13d6fcae304c965b13ec4b5\jetified-firebase-common-20.0.0\AndroidManifest.xml:28:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\e8f22e6ea13d6fcae304c965b13ec4b5\jetified-firebase-common-20.0.0\AndroidManifest.xml:30:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\e8f22e6ea13d6fcae304c965b13ec4b5\jetified-firebase-common-20.0.0\AndroidManifest.xml:29:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\e8f22e6ea13d6fcae304c965b13ec4b5\jetified-firebase-common-20.0.0\AndroidManifest.xml:31:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\e8f22e6ea13d6fcae304c965b13ec4b5\jetified-firebase-common-20.0.0\AndroidManifest.xml:27:13-77
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\3fb1b16227f0dfa9581258288b977cc7\jetified-play-services-maps-18.0.2\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\3fb1b16227f0dfa9581258288b977cc7\jetified-play-services-maps-18.0.2\AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\3fb1b16227f0dfa9581258288b977cc7\jetified-play-services-maps-18.0.2\AndroidManifest.xml:28:9-32
+package#com.google.android.apps.maps
+ADDED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\3fb1b16227f0dfa9581258288b977cc7\jetified-play-services-maps-18.0.2\AndroidManifest.xml:33:9-64
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\3fb1b16227f0dfa9581258288b977cc7\jetified-play-services-maps-18.0.2\AndroidManifest.xml:33:18-61
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\3fb1b16227f0dfa9581258288b977cc7\jetified-play-services-maps-18.0.2\AndroidManifest.xml:39:9-41:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\3fb1b16227f0dfa9581258288b977cc7\jetified-play-services-maps-18.0.2\AndroidManifest.xml:41:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\3fb1b16227f0dfa9581258288b977cc7\jetified-play-services-maps-18.0.2\AndroidManifest.xml:40:13-50
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\2a785d6e7d84b42dfd652d0e622ed37d\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\2a785d6e7d84b42dfd652d0e622ed37d\jetified-play-services-base-18.0.1\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\2a785d6e7d84b42dfd652d0e622ed37d\jetified-play-services-base-18.0.1\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\2a785d6e7d84b42dfd652d0e622ed37d\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\3299b3057460f340e13b4053db114bce\jetified-play-services-basement-18.0.0\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\3299b3057460f340e13b4053db114bce\jetified-play-services-basement-18.0.0\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\3299b3057460f340e13b4053db114bce\jetified-play-services-basement-18.0.0\AndroidManifest.xml:22:13-58
+service#com.google.android.datatransport.runtime.backends.TransportBackendDiscovery
+ADDED from [com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\731b3232bf48d223be3c6821045ae73e\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\edf3db9e00e10f1acf2eace18a5d0f87\jetified-transport-runtime-3.0.0\AndroidManifest.xml:36:9-38:40
+MERGED from [com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\edf3db9e00e10f1acf2eace18a5d0f87\jetified-transport-runtime-3.0.0\AndroidManifest.xml:36:9-38:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\731b3232bf48d223be3c6821045ae73e\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\731b3232bf48d223be3c6821045ae73e\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:30:13-103
+meta-data#backend:com.google.android.datatransport.cct.CctBackendFactory
+ADDED from [com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\731b3232bf48d223be3c6821045ae73e\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:32:13-34:39
+	android:value
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\731b3232bf48d223be3c6821045ae73e\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:34:17-36
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\731b3232bf48d223be3c6821045ae73e\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:33:17-94
+service#com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService
+ADDED from [com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\edf3db9e00e10f1acf2eace18a5d0f87\jetified-transport-runtime-3.0.0\AndroidManifest.xml:26:9-30:19
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\edf3db9e00e10f1acf2eace18a5d0f87\jetified-transport-runtime-3.0.0\AndroidManifest.xml:28:13-37
+	android:permission
+		ADDED from [com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\edf3db9e00e10f1acf2eace18a5d0f87\jetified-transport-runtime-3.0.0\AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\edf3db9e00e10f1acf2eace18a5d0f87\jetified-transport-runtime-3.0.0\AndroidManifest.xml:27:13-117
+receiver#com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver
+ADDED from [com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\edf3db9e00e10f1acf2eace18a5d0f87\jetified-transport-runtime-3.0.0\AndroidManifest.xml:32:9-34:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\edf3db9e00e10f1acf2eace18a5d0f87\jetified-transport-runtime-3.0.0\AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\ahmed\.gradle\caches\transforms-2\files-2.1\edf3db9e00e10f1acf2eace18a5d0f87\jetified-transport-runtime-3.0.0\AndroidManifest.xml:33:13-132

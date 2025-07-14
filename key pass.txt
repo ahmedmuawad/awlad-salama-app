@@ -1,0 +1,4 @@
+storePassword=salama-sons
+keyPassword=salama-sons
+keyAlias=salama-sons
+storeFile=salama-sons.jks

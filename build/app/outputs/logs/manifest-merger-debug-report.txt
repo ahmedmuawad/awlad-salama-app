@@ -1,0 +1,690 @@
+-- Merging decision tree log ---
+application
+INJECTED from D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\android\app\src\main\AndroidManifest.xml:25:5-77:19
+MERGED from [:firebase_messaging] D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-44:19
+MERGED from [:firebase_messaging] D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-44:19
+MERGED from [:firebase_core] D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_core] D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
+MERGED from [:geolocator_android] D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\build\geolocator_android\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
+MERGED from [:geolocator_android] D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\build\geolocator_android\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
+MERGED from [:image_picker] D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:10:5-20:19
+MERGED from [:image_picker] D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:10:5-20:19
+MERGED from [:flutter_local_notifications] D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-21:19
+MERGED from [:flutter_local_notifications] D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-21:19
+MERGED from [:url_launcher_android] D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\build\url_launcher_android\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-12:19
+MERGED from [:url_launcher_android] D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\build\url_launcher_android\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-12:19
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\ahmed\.gradle\caches\transforms-3\77be2d5d7b67afdcda0797b9a34ef3e3\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\ahmed\.gradle\caches\transforms-3\77be2d5d7b67afdcda0797b9a34ef3e3\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
+MERGED from [com.google.firebase:firebase-messaging:23.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\6853b8de5c3f867e4f599976a244bbd4\transformed\firebase-messaging-23.0.0\AndroidManifest.xml:27:5-56:19
+MERGED from [com.google.firebase:firebase-messaging:23.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\6853b8de5c3f867e4f599976a244bbd4\transformed\firebase-messaging-23.0.0\AndroidManifest.xml:27:5-56:19
+MERGED from [com.google.firebase:firebase-datatransport:18.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\0b1b6e1d4c5ec95d55c2c79832bba635\transformed\firebase-datatransport-18.0.0\AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.firebase:firebase-datatransport:18.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\0b1b6e1d4c5ec95d55c2c79832bba635\transformed\firebase-datatransport-18.0.0\AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\4642d3079059ae39eefb036083b6cda2\transformed\firebase-installations-17.0.0\AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\4642d3079059ae39eefb036083b6cda2\transformed\firebase-installations-17.0.0\AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\f6d93879a785e553caa1b14a46e489e2\transformed\firebase-common-20.0.0\AndroidManifest.xml:25:5-38:19
+MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\f6d93879a785e553caa1b14a46e489e2\transformed\firebase-common-20.0.0\AndroidManifest.xml:25:5-38:19
+MERGED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\ahmed\.gradle\caches\transforms-3\b873d7d83a92da8a527e5dd9d1fcb8cb\transformed\play-services-maps-18.0.2\AndroidManifest.xml:36:5-42:19
+MERGED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\ahmed\.gradle\caches\transforms-3\b873d7d83a92da8a527e5dd9d1fcb8cb\transformed\play-services-maps-18.0.2\AndroidManifest.xml:36:5-42:19
+MERGED from [com.google.android.gms:play-services-location:21.0.1] C:\Users\ahmed\.gradle\caches\transforms-3\db17dba00e56ddb7c1f177eafc5ef313\transformed\play-services-location-21.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:21.0.1] C:\Users\ahmed\.gradle\caches\transforms-3\db17dba00e56ddb7c1f177eafc5ef313\transformed\play-services-location-21.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\ahmed\.gradle\caches\transforms-3\a7878483ed13d80545aa2beff7991d79\transformed\play-services-base-18.1.0\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\ahmed\.gradle\caches\transforms-3\a7878483ed13d80545aa2beff7991d79\transformed\play-services-base-18.1.0\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] C:\Users\ahmed\.gradle\caches\transforms-3\4eedb4f040a50d4f806dabf049e2d480\transformed\firebase-iid-interop-17.1.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] C:\Users\ahmed\.gradle\caches\transforms-3\4eedb4f040a50d4f806dabf049e2d480\transformed\firebase-iid-interop-17.1.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\ahmed\.gradle\caches\transforms-3\be65a018b9c4a27f222d4cf9888a2a15\transformed\play-services-tasks-18.0.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\ahmed\.gradle\caches\transforms-3\be65a018b9c4a27f222d4cf9888a2a15\transformed\play-services-tasks-18.0.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\068c3c28be448dfa05cf2498b10451aa\transformed\play-services-stats-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\068c3c28be448dfa05cf2498b10451aa\transformed\play-services-stats-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\ec506c8341c4a2addaecb1736eda262b\transformed\firebase-measurement-connector-19.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\ec506c8341c4a2addaecb1736eda262b\transformed\firebase-measurement-connector-19.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\ahmed\.gradle\caches\transforms-3\697ad455e067e6c23a522cb2ac20621d\transformed\play-services-basement-18.1.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\ahmed\.gradle\caches\transforms-3\697ad455e067e6c23a522cb2ac20621d\transformed\play-services-basement-18.1.0\AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.core:core:1.9.0] C:\Users\ahmed\.gradle\caches\transforms-3\d46bb20538aee6d307b7b918a2f6122a\transformed\core-1.9.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.9.0] C:\Users\ahmed\.gradle\caches\transforms-3\d46bb20538aee6d307b7b918a2f6122a\transformed\core-1.9.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\ahmed\.gradle\caches\transforms-3\52dad086506a38919e938cccfdea8173\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\ahmed\.gradle\caches\transforms-3\52dad086506a38919e938cccfdea8173\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\9354d6dfa742b4367996261f896e8d34\transformed\transport-backend-cct-3.0.0\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\9354d6dfa742b4367996261f896e8d34\transformed\transport-backend-cct-3.0.0\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\867de6cd93230dc8d57df8eda8374d0c\transformed\transport-runtime-3.0.0\AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\867de6cd93230dc8d57df8eda8374d0c\transformed\transport-runtime-3.0.0\AndroidManifest.xml:25:5-39:19
+MERGED from [com.jakewharton.threetenabp:threetenabp:1.2.3] C:\Users\ahmed\.gradle\caches\transforms-3\420162013ef2c102c1766c4398306191\transformed\jetified-threetenabp-1.2.3\AndroidManifest.xml:7:5-20
+MERGED from [com.jakewharton.threetenabp:threetenabp:1.2.3] C:\Users\ahmed\.gradle\caches\transforms-3\420162013ef2c102c1766c4398306191\transformed\jetified-threetenabp-1.2.3\AndroidManifest.xml:7:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.9.0] C:\Users\ahmed\.gradle\caches\transforms-3\d46bb20538aee6d307b7b918a2f6122a\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+	android:name
+		INJECTED from D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\android\app\src\main\AndroidManifest.xml
+manifest
+ADDED from D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\android\app\src\main\AndroidManifest.xml:1:1-78:12
+INJECTED from D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\android\app\src\main\AndroidManifest.xml:1:1-78:12
+INJECTED from D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\android\app\src\main\AndroidManifest.xml:1:1-78:12
+INJECTED from D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\android\app\src\main\AndroidManifest.xml:1:1-78:12
+MERGED from D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\android\app\src\main\AndroidManifest.xml:1:1-78:12
+MERGED from [:firebase_messaging] D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-46:12
+MERGED from [:firebase_core] D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-15:12
+MERGED from [:geolocator_android] D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\build\geolocator_android\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-15:12
+MERGED from [:image_picker] D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-22:12
+MERGED from [:google_maps_flutter_android] D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\build\google_maps_flutter_android\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:flutter_plugin_android_lifecycle] D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\build\flutter_plugin_android_lifecycle\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:flutter_local_notifications] D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-23:12
+MERGED from [:url_launcher_android] D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\build\url_launcher_android\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-14:12
+MERGED from [:path_provider_android] D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\build\path_provider_android\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:wakelock] D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\build\wakelock\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:webview_flutter_android] D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\build\webview_flutter_android\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:shared_preferences_android] D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\build\shared_preferences_android\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:connectivity] D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\build\connectivity\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:geocoding] D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\build\geocoding\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:flutter_keyboard_visibility] D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\build\flutter_keyboard_visibility\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:google_api_headers] D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\build\google_api_headers\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:package_info_plus] D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\build\package_info_plus\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:phone_number] D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\build\phone_number\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:video_player_android] D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\build\video_player_android\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\ahmed\.gradle\caches\transforms-3\f0b2a1ba41540db583c59d4966a34c84\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\ahmed\.gradle\caches\transforms-3\77be2d5d7b67afdcda0797b9a34ef3e3\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:17:1-33:12
+MERGED from [com.google.firebase:firebase-messaging:23.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\6853b8de5c3f867e4f599976a244bbd4\transformed\firebase-messaging-23.0.0\AndroidManifest.xml:17:1-58:12
+MERGED from [com.android.support:multidex:1.0.3] C:\Users\ahmed\.gradle\caches\transforms-3\e72aed9ea2aa9623e72e20d1b94f6bd8\transformed\multidex-1.0.3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-datatransport:18.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\0b1b6e1d4c5ec95d55c2c79832bba635\transformed\firebase-datatransport-18.0.0\AndroidManifest.xml:15:1-34:12
+MERGED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\4642d3079059ae39eefb036083b6cda2\transformed\firebase-installations-17.0.0\AndroidManifest.xml:2:1-24:12
+MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\f6d93879a785e553caa1b14a46e489e2\transformed\firebase-common-20.0.0\AndroidManifest.xml:15:1-40:12
+MERGED from [androidx.media:media:1.1.0] C:\Users\ahmed\.gradle\caches\transforms-3\2112e261ecc0ced9c428a8892671fbff\transformed\media-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.webkit:webkit:1.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\469670a521637e0190793121c649ced9\transformed\webkit-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.18.1] C:\Users\ahmed\.gradle\caches\transforms-3\d87cc8f2ba01df8b9198c4b8b5ac2393\transformed\exoplayer-hls-2.18.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.18.1] C:\Users\ahmed\.gradle\caches\transforms-3\abf9117cbab40b9d2ca8190f2eb5d4a8\transformed\exoplayer-dash-2.18.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.18.1] C:\Users\ahmed\.gradle\caches\transforms-3\7a09a56fcfa9782a9e9a6214c1fb7d47\transformed\exoplayer-smoothstreaming-2.18.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.18.1] C:\Users\ahmed\.gradle\caches\transforms-3\942ab5ef91787ae82df9833aac9eb358\transformed\exoplayer-core-2.18.1\AndroidManifest.xml:17:1-26:12
+MERGED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\ahmed\.gradle\caches\transforms-3\b873d7d83a92da8a527e5dd9d1fcb8cb\transformed\play-services-maps-18.0.2\AndroidManifest.xml:17:1-44:12
+MERGED from [com.google.android.gms:play-services-location:21.0.1] C:\Users\ahmed\.gradle\caches\transforms-3\db17dba00e56ddb7c1f177eafc5ef313\transformed\play-services-location-21.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\ahmed\.gradle\caches\transforms-3\a7878483ed13d80545aa2beff7991d79\transformed\play-services-base-18.1.0\AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\bbeea64a1eced6f342405c67b44aa3a8\transformed\play-services-cloud-messaging-17.0.0\AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] C:\Users\ahmed\.gradle\caches\transforms-3\4eedb4f040a50d4f806dabf049e2d480\transformed\firebase-iid-interop-17.1.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-installations-interop:17.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\3433eef357eda971cfdeeaf4bd7589e8\transformed\firebase-installations-interop-17.0.0\AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\ahmed\.gradle\caches\transforms-3\be65a018b9c4a27f222d4cf9888a2a15\transformed\play-services-tasks-18.0.2\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\068c3c28be448dfa05cf2498b10451aa\transformed\play-services-stats-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\ec506c8341c4a2addaecb1736eda262b\transformed\firebase-measurement-connector-19.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\ahmed\.gradle\caches\transforms-3\697ad455e067e6c23a522cb2ac20621d\transformed\play-services-basement-18.1.0\AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\ahmed\.gradle\caches\transforms-3\da3bd6a3fc59dfd781ded39df510626c\transformed\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\4afdab98cf87450f3b76380cab83900c\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\3cc07d0b3bb757968c2de141e96894ad\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\ea68905451c46d2a3b47c083284e6558\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\0c18cbfc50eabbeb59d3c5cb01ae9483\transformed\activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\26c3ea163f3d4b2995bc2a09576273bf\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.9.0] C:\Users\ahmed\.gradle\caches\transforms-3\d46bb20538aee6d307b7b918a2f6122a\transformed\core-1.9.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.0] C:\Users\ahmed\.gradle\caches\transforms-3\1a887a9f48c825a1e9fc2d7a57674a56\transformed\exifinterface-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\6f7f9a0b46d17f64bd6326656861450a\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\4f1ae045b788aa9d6048f203c17fabc4\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\ahmed\.gradle\caches\transforms-3\501792416d406dd0e46764d9e9c0a2f1\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\ahmed\.gradle\caches\transforms-3\52dad086506a38919e938cccfdea8173\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.exoplayer:exoplayer-datasource:2.18.1] C:\Users\ahmed\.gradle\caches\transforms-3\7c34d2d85c3c90d132d5447b9ac8b24b\transformed\exoplayer-datasource-2.18.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.18.1] C:\Users\ahmed\.gradle\caches\transforms-3\21e0e30d435972b51568913a292b7ac4\transformed\exoplayer-extractor-2.18.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-decoder:2.18.1] C:\Users\ahmed\.gradle\caches\transforms-3\5c675ea5a84ac6f1dc77057b41c449aa\transformed\exoplayer-decoder-2.18.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-database:2.18.1] C:\Users\ahmed\.gradle\caches\transforms-3\590fd034bafe367232c3cb9727a61999\transformed\exoplayer-database-2.18.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.18.1] C:\Users\ahmed\.gradle\caches\transforms-3\0d61e12234e3339ead245ff85e530a3b\transformed\exoplayer-common-2.18.1\AndroidManifest.xml:17:1-26:12
+MERGED from [com.google.firebase:firebase-components:17.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\8f5b4de6dbff47541299fb4888eb0e2c\transformed\firebase-components-17.0.0\AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\9354d6dfa742b4367996261f896e8d34\transformed\transport-backend-cct-3.0.0\AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\867de6cd93230dc8d57df8eda8374d0c\transformed\transport-runtime-3.0.0\AndroidManifest.xml:15:1-41:12
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\02e41bd1368627b6b24f954844bee4b6\transformed\transport-api-3.0.0\AndroidManifest.xml:15:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\e4d4298e61a1dcb7c05dceaf563a479f\transformed\savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\1baafb35d9d11d0daf9e4bb636677d7c\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\bb73139823b936ca4eda02dab56d7b1f\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\ahmed\.gradle\caches\transforms-3\a9a5c65238123e6a26adbbe5627d99bc\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\78054cbaca2441b98941ac869346f50e\transformed\firebase-encoders-json-18.0.0\AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\ahmed\.gradle\caches\transforms-3\c2e100d098f7571aa755763f3b1a9a11\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\473dcda479e624c1171e14ab1f8c6223\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\73367568406947dca398a50f08ea531d\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.jakewharton.threetenabp:threetenabp:1.2.3] C:\Users\ahmed\.gradle\caches\transforms-3\420162013ef2c102c1766c4398306191\transformed\jetified-threetenabp-1.2.3\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\ahmed\.gradle\caches\transforms-3\0ae43778d4eff48c497e9a58304ce494\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+	package
+		ADDED from D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\android\app\src\main\AndroidManifest.xml:2:5-39
+		INJECTED from D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\android\app\src\debug\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\android\app\src\main\AndroidManifest.xml:1:1-78:12
+		INJECTED from D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\android\app\src\debug\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\android\app\src\main\AndroidManifest.xml:1:1-78:12
+		INJECTED from D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\android\app\src\debug\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\android\app\src\main\AndroidManifest.xml:4:5-67
+MERGED from D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\android\app\src\main\AndroidManifest.xml:4:5-67
+MERGED from D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\android\app\src\main\AndroidManifest.xml:4:5-67
+MERGED from [:firebase_messaging] D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-67
+MERGED from [:firebase_messaging] D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-67
+MERGED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\4642d3079059ae39eefb036083b6cda2\transformed\firebase-installations-17.0.0\AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\4642d3079059ae39eefb036083b6cda2\transformed\firebase-installations-17.0.0\AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\ahmed\.gradle\caches\transforms-3\b873d7d83a92da8a527e5dd9d1fcb8cb\transformed\play-services-maps-18.0.2\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\ahmed\.gradle\caches\transforms-3\b873d7d83a92da8a527e5dd9d1fcb8cb\transformed\play-services-maps-18.0.2\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\bbeea64a1eced6f342405c67b44aa3a8\transformed\play-services-cloud-messaging-17.0.0\AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\bbeea64a1eced6f342405c67b44aa3a8\transformed\play-services-cloud-messaging-17.0.0\AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\9354d6dfa742b4367996261f896e8d34\transformed\transport-backend-cct-3.0.0\AndroidManifest.xml:26:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\9354d6dfa742b4367996261f896e8d34\transformed\transport-backend-cct-3.0.0\AndroidManifest.xml:26:5-67
+	android:name
+		ADDED from D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\android\app\src\main\AndroidManifest.xml:4:22-64
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\android\app\src\main\AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\android\app\src\main\AndroidManifest.xml:5:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\android\app\src\main\AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\android\app\src\main\AndroidManifest.xml:6:22-78
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\android\app\src\main\AndroidManifest.xml:7:5-79
+MERGED from [:firebase_messaging] D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-79
+MERGED from [:firebase_messaging] D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-79
+MERGED from [:connectivity] D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\build\connectivity\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-79
+MERGED from [:connectivity] D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\build\connectivity\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-79
+MERGED from [com.google.firebase:firebase-messaging:23.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\6853b8de5c3f867e4f599976a244bbd4\transformed\firebase-messaging-23.0.0\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-messaging:23.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\6853b8de5c3f867e4f599976a244bbd4\transformed\firebase-messaging-23.0.0\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\4642d3079059ae39eefb036083b6cda2\transformed\firebase-installations-17.0.0\AndroidManifest.xml:10:5-79
+MERGED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\4642d3079059ae39eefb036083b6cda2\transformed\firebase-installations-17.0.0\AndroidManifest.xml:10:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.18.1] C:\Users\ahmed\.gradle\caches\transforms-3\942ab5ef91787ae82df9833aac9eb358\transformed\exoplayer-core-2.18.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.18.1] C:\Users\ahmed\.gradle\caches\transforms-3\942ab5ef91787ae82df9833aac9eb358\transformed\exoplayer-core-2.18.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\ahmed\.gradle\caches\transforms-3\b873d7d83a92da8a527e5dd9d1fcb8cb\transformed\play-services-maps-18.0.2\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\ahmed\.gradle\caches\transforms-3\b873d7d83a92da8a527e5dd9d1fcb8cb\transformed\play-services-maps-18.0.2\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\bbeea64a1eced6f342405c67b44aa3a8\transformed\play-services-cloud-messaging-17.0.0\AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\bbeea64a1eced6f342405c67b44aa3a8\transformed\play-services-cloud-messaging-17.0.0\AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.18.1] C:\Users\ahmed\.gradle\caches\transforms-3\0d61e12234e3339ead245ff85e530a3b\transformed\exoplayer-common-2.18.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.18.1] C:\Users\ahmed\.gradle\caches\transforms-3\0d61e12234e3339ead245ff85e530a3b\transformed\exoplayer-common-2.18.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\9354d6dfa742b4367996261f896e8d34\transformed\transport-backend-cct-3.0.0\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\9354d6dfa742b4367996261f896e8d34\transformed\transport-backend-cct-3.0.0\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\867de6cd93230dc8d57df8eda8374d0c\transformed\transport-runtime-3.0.0\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\867de6cd93230dc8d57df8eda8374d0c\transformed\transport-runtime-3.0.0\AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\android\app\src\main\AndroidManifest.xml:7:22-76
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\android\app\src\main\AndroidManifest.xml:8:5-81
+MERGED from [:flutter_local_notifications] D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-81
+MERGED from [:flutter_local_notifications] D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\android\app\src\main\AndroidManifest.xml:8:22-78
+queries
+ADDED from D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\android\app\src\main\AndroidManifest.xml:10:5-23:15
+MERGED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\ahmed\.gradle\caches\transforms-3\b873d7d83a92da8a527e5dd9d1fcb8cb\transformed\play-services-maps-18.0.2\AndroidManifest.xml:30:5-34:15
+MERGED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\ahmed\.gradle\caches\transforms-3\b873d7d83a92da8a527e5dd9d1fcb8cb\transformed\play-services-maps-18.0.2\AndroidManifest.xml:30:5-34:15
+intent#action:name:android.intent.action.VIEW+data:scheme:https
+ADDED from D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\android\app\src\main\AndroidManifest.xml:11:9-14:18
+action#android.intent.action.VIEW
+ADDED from D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\android\app\src\main\AndroidManifest.xml:12:13-65
+	android:name
+		ADDED from D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\android\app\src\main\AndroidManifest.xml:12:21-62
+data
+ADDED from D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\android\app\src\main\AndroidManifest.xml:13:13-44
+	android:scheme
+		ADDED from D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\android\app\src\main\AndroidManifest.xml:13:19-41
+intent#action:name:android.intent.action.DIAL+data:scheme:tel
+ADDED from D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\android\app\src\main\AndroidManifest.xml:15:9-18:18
+action#android.intent.action.DIAL
+ADDED from D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\android\app\src\main\AndroidManifest.xml:16:13-65
+	android:name
+		ADDED from D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\android\app\src\main\AndroidManifest.xml:16:21-62
+intent#action:name:android.intent.action.SEND+data:mimeType:*/*
+ADDED from D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\android\app\src\main\AndroidManifest.xml:19:9-22:18
+action#android.intent.action.SEND
+ADDED from D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\android\app\src\main\AndroidManifest.xml:20:13-65
+	android:name
+		ADDED from D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\android\app\src\main\AndroidManifest.xml:20:21-62
+uses-sdk
+INJECTED from D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\android\app\src\main\AndroidManifest.xml
+INJECTED from D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\android\app\src\main\AndroidManifest.xml
+MERGED from [:firebase_messaging] D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_messaging] D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core] D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core] D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:geolocator_android] D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\build\geolocator_android\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:geolocator_android] D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\build\geolocator_android\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:image_picker] D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:image_picker] D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:google_maps_flutter_android] D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\build\google_maps_flutter_android\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:google_maps_flutter_android] D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\build\google_maps_flutter_android\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\build\flutter_plugin_android_lifecycle\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\build\flutter_plugin_android_lifecycle\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_local_notifications] D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_local_notifications] D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher_android] D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\build\url_launcher_android\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher_android] D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\build\url_launcher_android\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:path_provider_android] D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\build\path_provider_android\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:path_provider_android] D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\build\path_provider_android\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:wakelock] D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\build\wakelock\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:wakelock] D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\build\wakelock\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:webview_flutter_android] D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\build\webview_flutter_android\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:webview_flutter_android] D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\build\webview_flutter_android\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences_android] D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\build\shared_preferences_android\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences_android] D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\build\shared_preferences_android\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:connectivity] D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\build\connectivity\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:connectivity] D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\build\connectivity\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:geocoding] D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\build\geocoding\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:geocoding] D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\build\geocoding\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_keyboard_visibility] D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\build\flutter_keyboard_visibility\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_keyboard_visibility] D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\build\flutter_keyboard_visibility\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:google_api_headers] D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\build\google_api_headers\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:google_api_headers] D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\build\google_api_headers\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:package_info_plus] D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\build\package_info_plus\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:package_info_plus] D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\build\package_info_plus\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:phone_number] D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\build\phone_number\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:phone_number] D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\build\phone_number\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:video_player_android] D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\build\video_player_android\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:video_player_android] D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\build\video_player_android\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\ahmed\.gradle\caches\transforms-3\f0b2a1ba41540db583c59d4966a34c84\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\ahmed\.gradle\caches\transforms-3\f0b2a1ba41540db583c59d4966a34c84\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\ahmed\.gradle\caches\transforms-3\77be2d5d7b67afdcda0797b9a34ef3e3\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\ahmed\.gradle\caches\transforms-3\77be2d5d7b67afdcda0797b9a34ef3e3\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-messaging:23.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\6853b8de5c3f867e4f599976a244bbd4\transformed\firebase-messaging-23.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:23.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\6853b8de5c3f867e4f599976a244bbd4\transformed\firebase-messaging-23.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:multidex:1.0.3] C:\Users\ahmed\.gradle\caches\transforms-3\e72aed9ea2aa9623e72e20d1b94f6bd8\transformed\multidex-1.0.3\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.3] C:\Users\ahmed\.gradle\caches\transforms-3\e72aed9ea2aa9623e72e20d1b94f6bd8\transformed\multidex-1.0.3\AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-datatransport:18.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\0b1b6e1d4c5ec95d55c2c79832bba635\transformed\firebase-datatransport-18.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-datatransport:18.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\0b1b6e1d4c5ec95d55c2c79832bba635\transformed\firebase-datatransport-18.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\4642d3079059ae39eefb036083b6cda2\transformed\firebase-installations-17.0.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\4642d3079059ae39eefb036083b6cda2\transformed\firebase-installations-17.0.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\f6d93879a785e553caa1b14a46e489e2\transformed\firebase-common-20.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\f6d93879a785e553caa1b14a46e489e2\transformed\firebase-common-20.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.1.0] C:\Users\ahmed\.gradle\caches\transforms-3\2112e261ecc0ced9c428a8892671fbff\transformed\media-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.1.0] C:\Users\ahmed\.gradle\caches\transforms-3\2112e261ecc0ced9c428a8892671fbff\transformed\media-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.webkit:webkit:1.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\469670a521637e0190793121c649ced9\transformed\webkit-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.webkit:webkit:1.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\469670a521637e0190793121c649ced9\transformed\webkit-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.18.1] C:\Users\ahmed\.gradle\caches\transforms-3\d87cc8f2ba01df8b9198c4b8b5ac2393\transformed\exoplayer-hls-2.18.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.18.1] C:\Users\ahmed\.gradle\caches\transforms-3\d87cc8f2ba01df8b9198c4b8b5ac2393\transformed\exoplayer-hls-2.18.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.18.1] C:\Users\ahmed\.gradle\caches\transforms-3\abf9117cbab40b9d2ca8190f2eb5d4a8\transformed\exoplayer-dash-2.18.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.18.1] C:\Users\ahmed\.gradle\caches\transforms-3\abf9117cbab40b9d2ca8190f2eb5d4a8\transformed\exoplayer-dash-2.18.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.18.1] C:\Users\ahmed\.gradle\caches\transforms-3\7a09a56fcfa9782a9e9a6214c1fb7d47\transformed\exoplayer-smoothstreaming-2.18.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.18.1] C:\Users\ahmed\.gradle\caches\transforms-3\7a09a56fcfa9782a9e9a6214c1fb7d47\transformed\exoplayer-smoothstreaming-2.18.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.18.1] C:\Users\ahmed\.gradle\caches\transforms-3\942ab5ef91787ae82df9833aac9eb358\transformed\exoplayer-core-2.18.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.18.1] C:\Users\ahmed\.gradle\caches\transforms-3\942ab5ef91787ae82df9833aac9eb358\transformed\exoplayer-core-2.18.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\ahmed\.gradle\caches\transforms-3\b873d7d83a92da8a527e5dd9d1fcb8cb\transformed\play-services-maps-18.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\ahmed\.gradle\caches\transforms-3\b873d7d83a92da8a527e5dd9d1fcb8cb\transformed\play-services-maps-18.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:21.0.1] C:\Users\ahmed\.gradle\caches\transforms-3\db17dba00e56ddb7c1f177eafc5ef313\transformed\play-services-location-21.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:21.0.1] C:\Users\ahmed\.gradle\caches\transforms-3\db17dba00e56ddb7c1f177eafc5ef313\transformed\play-services-location-21.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\ahmed\.gradle\caches\transforms-3\a7878483ed13d80545aa2beff7991d79\transformed\play-services-base-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\ahmed\.gradle\caches\transforms-3\a7878483ed13d80545aa2beff7991d79\transformed\play-services-base-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\bbeea64a1eced6f342405c67b44aa3a8\transformed\play-services-cloud-messaging-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\bbeea64a1eced6f342405c67b44aa3a8\transformed\play-services-cloud-messaging-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] C:\Users\ahmed\.gradle\caches\transforms-3\4eedb4f040a50d4f806dabf049e2d480\transformed\firebase-iid-interop-17.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] C:\Users\ahmed\.gradle\caches\transforms-3\4eedb4f040a50d4f806dabf049e2d480\transformed\firebase-iid-interop-17.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-installations-interop:17.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\3433eef357eda971cfdeeaf4bd7589e8\transformed\firebase-installations-interop-17.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-installations-interop:17.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\3433eef357eda971cfdeeaf4bd7589e8\transformed\firebase-installations-interop-17.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\ahmed\.gradle\caches\transforms-3\be65a018b9c4a27f222d4cf9888a2a15\transformed\play-services-tasks-18.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\ahmed\.gradle\caches\transforms-3\be65a018b9c4a27f222d4cf9888a2a15\transformed\play-services-tasks-18.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\068c3c28be448dfa05cf2498b10451aa\transformed\play-services-stats-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\068c3c28be448dfa05cf2498b10451aa\transformed\play-services-stats-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\ec506c8341c4a2addaecb1736eda262b\transformed\firebase-measurement-connector-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\ec506c8341c4a2addaecb1736eda262b\transformed\firebase-measurement-connector-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\ahmed\.gradle\caches\transforms-3\697ad455e067e6c23a522cb2ac20621d\transformed\play-services-basement-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\ahmed\.gradle\caches\transforms-3\697ad455e067e6c23a522cb2ac20621d\transformed\play-services-basement-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\ahmed\.gradle\caches\transforms-3\da3bd6a3fc59dfd781ded39df510626c\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\ahmed\.gradle\caches\transforms-3\da3bd6a3fc59dfd781ded39df510626c\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\4afdab98cf87450f3b76380cab83900c\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\4afdab98cf87450f3b76380cab83900c\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\3cc07d0b3bb757968c2de141e96894ad\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\3cc07d0b3bb757968c2de141e96894ad\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\ea68905451c46d2a3b47c083284e6558\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\ea68905451c46d2a3b47c083284e6558\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\0c18cbfc50eabbeb59d3c5cb01ae9483\transformed\activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\0c18cbfc50eabbeb59d3c5cb01ae9483\transformed\activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\26c3ea163f3d4b2995bc2a09576273bf\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\26c3ea163f3d4b2995bc2a09576273bf\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.9.0] C:\Users\ahmed\.gradle\caches\transforms-3\d46bb20538aee6d307b7b918a2f6122a\transformed\core-1.9.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.9.0] C:\Users\ahmed\.gradle\caches\transforms-3\d46bb20538aee6d307b7b918a2f6122a\transformed\core-1.9.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.3.0] C:\Users\ahmed\.gradle\caches\transforms-3\1a887a9f48c825a1e9fc2d7a57674a56\transformed\exifinterface-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.0] C:\Users\ahmed\.gradle\caches\transforms-3\1a887a9f48c825a1e9fc2d7a57674a56\transformed\exifinterface-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\6f7f9a0b46d17f64bd6326656861450a\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\6f7f9a0b46d17f64bd6326656861450a\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\4f1ae045b788aa9d6048f203c17fabc4\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\4f1ae045b788aa9d6048f203c17fabc4\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\ahmed\.gradle\caches\transforms-3\501792416d406dd0e46764d9e9c0a2f1\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\ahmed\.gradle\caches\transforms-3\501792416d406dd0e46764d9e9c0a2f1\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\ahmed\.gradle\caches\transforms-3\52dad086506a38919e938cccfdea8173\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\ahmed\.gradle\caches\transforms-3\52dad086506a38919e938cccfdea8173\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-datasource:2.18.1] C:\Users\ahmed\.gradle\caches\transforms-3\7c34d2d85c3c90d132d5447b9ac8b24b\transformed\exoplayer-datasource-2.18.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-datasource:2.18.1] C:\Users\ahmed\.gradle\caches\transforms-3\7c34d2d85c3c90d132d5447b9ac8b24b\transformed\exoplayer-datasource-2.18.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.18.1] C:\Users\ahmed\.gradle\caches\transforms-3\21e0e30d435972b51568913a292b7ac4\transformed\exoplayer-extractor-2.18.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.18.1] C:\Users\ahmed\.gradle\caches\transforms-3\21e0e30d435972b51568913a292b7ac4\transformed\exoplayer-extractor-2.18.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-decoder:2.18.1] C:\Users\ahmed\.gradle\caches\transforms-3\5c675ea5a84ac6f1dc77057b41c449aa\transformed\exoplayer-decoder-2.18.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-decoder:2.18.1] C:\Users\ahmed\.gradle\caches\transforms-3\5c675ea5a84ac6f1dc77057b41c449aa\transformed\exoplayer-decoder-2.18.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-database:2.18.1] C:\Users\ahmed\.gradle\caches\transforms-3\590fd034bafe367232c3cb9727a61999\transformed\exoplayer-database-2.18.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-database:2.18.1] C:\Users\ahmed\.gradle\caches\transforms-3\590fd034bafe367232c3cb9727a61999\transformed\exoplayer-database-2.18.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.18.1] C:\Users\ahmed\.gradle\caches\transforms-3\0d61e12234e3339ead245ff85e530a3b\transformed\exoplayer-common-2.18.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.18.1] C:\Users\ahmed\.gradle\caches\transforms-3\0d61e12234e3339ead245ff85e530a3b\transformed\exoplayer-common-2.18.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-components:17.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\8f5b4de6dbff47541299fb4888eb0e2c\transformed\firebase-components-17.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:17.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\8f5b4de6dbff47541299fb4888eb0e2c\transformed\firebase-components-17.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\9354d6dfa742b4367996261f896e8d34\transformed\transport-backend-cct-3.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\9354d6dfa742b4367996261f896e8d34\transformed\transport-backend-cct-3.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\867de6cd93230dc8d57df8eda8374d0c\transformed\transport-runtime-3.0.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\867de6cd93230dc8d57df8eda8374d0c\transformed\transport-runtime-3.0.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\02e41bd1368627b6b24f954844bee4b6\transformed\transport-api-3.0.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\02e41bd1368627b6b24f954844bee4b6\transformed\transport-api-3.0.0\AndroidManifest.xml:18:5-20:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\e4d4298e61a1dcb7c05dceaf563a479f\transformed\savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\e4d4298e61a1dcb7c05dceaf563a479f\transformed\savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\1baafb35d9d11d0daf9e4bb636677d7c\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\1baafb35d9d11d0daf9e4bb636677d7c\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\bb73139823b936ca4eda02dab56d7b1f\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\bb73139823b936ca4eda02dab56d7b1f\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\ahmed\.gradle\caches\transforms-3\a9a5c65238123e6a26adbbe5627d99bc\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\ahmed\.gradle\caches\transforms-3\a9a5c65238123e6a26adbbe5627d99bc\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\78054cbaca2441b98941ac869346f50e\transformed\firebase-encoders-json-18.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\78054cbaca2441b98941ac869346f50e\transformed\firebase-encoders-json-18.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\ahmed\.gradle\caches\transforms-3\c2e100d098f7571aa755763f3b1a9a11\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\ahmed\.gradle\caches\transforms-3\c2e100d098f7571aa755763f3b1a9a11\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\473dcda479e624c1171e14ab1f8c6223\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\473dcda479e624c1171e14ab1f8c6223\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\73367568406947dca398a50f08ea531d\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\73367568406947dca398a50f08ea531d\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.jakewharton.threetenabp:threetenabp:1.2.3] C:\Users\ahmed\.gradle\caches\transforms-3\420162013ef2c102c1766c4398306191\transformed\jetified-threetenabp-1.2.3\AndroidManifest.xml:5:5-44
+MERGED from [com.jakewharton.threetenabp:threetenabp:1.2.3] C:\Users\ahmed\.gradle\caches\transforms-3\420162013ef2c102c1766c4398306191\transformed\jetified-threetenabp-1.2.3\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\ahmed\.gradle\caches\transforms-3\0ae43778d4eff48c497e9a58304ce494\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\ahmed\.gradle\caches\transforms-3\0ae43778d4eff48c497e9a58304ce494\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+INJECTED from D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\android\app\src\debug\AndroidManifest.xml
+INJECTED from D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\android\app\src\debug\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\android\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\android\app\src\debug\AndroidManifest.xml
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [:firebase_messaging] D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:8:5-68
+MERGED from [com.google.firebase:firebase-messaging:23.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\6853b8de5c3f867e4f599976a244bbd4\transformed\firebase-messaging-23.0.0\AndroidManifest.xml:23:5-68
+MERGED from [com.google.firebase:firebase-messaging:23.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\6853b8de5c3f867e4f599976a244bbd4\transformed\firebase-messaging-23.0.0\AndroidManifest.xml:23:5-68
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\bbeea64a1eced6f342405c67b44aa3a8\transformed\play-services-cloud-messaging-17.0.0\AndroidManifest.xml:9:5-68
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\bbeea64a1eced6f342405c67b44aa3a8\transformed\play-services-cloud-messaging-17.0.0\AndroidManifest.xml:9:5-68
+	android:name
+		ADDED from [:firebase_messaging] D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:8:22-65
+service#io.flutter.plugins.firebase.messaging.FlutterFirebaseMessagingBackgroundService
+ADDED from [:firebase_messaging] D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:12:9-15:72
+	android:exported
+		ADDED from [:firebase_messaging] D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:14:13-37
+	android:permission
+		ADDED from [:firebase_messaging] D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:15:13-69
+	android:name
+		ADDED from [:firebase_messaging] D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-107
+service#io.flutter.plugins.firebase.messaging.FlutterFirebaseMessagingService
+ADDED from [:firebase_messaging] D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:16:9-22:19
+	android:exported
+		ADDED from [:firebase_messaging] D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:18:13-37
+	android:name
+		ADDED from [:firebase_messaging] D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:17:13-97
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from [:firebase_messaging] D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:19:13-21:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [:firebase_messaging] D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:20:17-78
+	android:name
+		ADDED from [:firebase_messaging] D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:20:25-75
+receiver#io.flutter.plugins.firebase.messaging.FlutterFirebaseMessagingReceiver
+ADDED from [:firebase_messaging] D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:24:9-31:20
+	android:exported
+		ADDED from [:firebase_messaging] D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:26:13-36
+	android:permission
+		ADDED from [:firebase_messaging] D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:27:13-73
+	android:name
+		ADDED from [:firebase_messaging] D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:25:13-98
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [:firebase_messaging] D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:28:13-30:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [:firebase_messaging] D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:29:17-81
+	android:name
+		ADDED from [:firebase_messaging] D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:29:25-78
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [:firebase_messaging] D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:33:9-37:19
+MERGED from [:firebase_core] D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_core] D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-12:19
+MERGED from [com.google.firebase:firebase-messaging:23.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\6853b8de5c3f867e4f599976a244bbd4\transformed\firebase-messaging-23.0.0\AndroidManifest.xml:49:9-55:19
+MERGED from [com.google.firebase:firebase-messaging:23.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\6853b8de5c3f867e4f599976a244bbd4\transformed\firebase-messaging-23.0.0\AndroidManifest.xml:49:9-55:19
+MERGED from [com.google.firebase:firebase-datatransport:18.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\0b1b6e1d4c5ec95d55c2c79832bba635\transformed\firebase-datatransport-18.0.0\AndroidManifest.xml:25:9-31:19
+MERGED from [com.google.firebase:firebase-datatransport:18.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\0b1b6e1d4c5ec95d55c2c79832bba635\transformed\firebase-datatransport-18.0.0\AndroidManifest.xml:25:9-31:19
+MERGED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\4642d3079059ae39eefb036083b6cda2\transformed\firebase-installations-17.0.0\AndroidManifest.xml:15:9-21:19
+MERGED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\4642d3079059ae39eefb036083b6cda2\transformed\firebase-installations-17.0.0\AndroidManifest.xml:15:9-21:19
+MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\f6d93879a785e553caa1b14a46e489e2\transformed\firebase-common-20.0.0\AndroidManifest.xml:33:9-37:35
+MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\f6d93879a785e553caa1b14a46e489e2\transformed\firebase-common-20.0.0\AndroidManifest.xml:33:9-37:35
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:23.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\6853b8de5c3f867e4f599976a244bbd4\transformed\firebase-messaging-23.0.0\AndroidManifest.xml:51:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\f6d93879a785e553caa1b14a46e489e2\transformed\firebase-common-20.0.0\AndroidManifest.xml:37:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\f6d93879a785e553caa1b14a46e489e2\transformed\firebase-common-20.0.0\AndroidManifest.xml:35:13-43
+	android:name
+		ADDED from [:firebase_messaging] D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:33:18-89
+meta-data#com.google.firebase.components:io.flutter.plugins.firebase.messaging.FlutterFirebaseAppRegistrar
+ADDED from [:firebase_messaging] D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:34:13-36:85
+	android:value
+		ADDED from [:firebase_messaging] D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:36:17-82
+	android:name
+		ADDED from [:firebase_messaging] D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:35:17-128
+provider#io.flutter.plugins.firebase.messaging.FlutterFirebaseMessagingInitProvider
+ADDED from [:firebase_messaging] D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:39:9-43:38
+	android:authorities
+		ADDED from [:firebase_messaging] D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:41:13-88
+	android:exported
+		ADDED from [:firebase_messaging] D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:42:13-37
+	android:initOrder
+		ADDED from [:firebase_messaging] D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:43:13-35
+	android:name
+		ADDED from [:firebase_messaging] D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:40:13-102
+meta-data#com.google.firebase.components:io.flutter.plugins.firebase.core.FlutterFirebaseCoreRegistrar
+ADDED from [:firebase_core] D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-11:85
+	android:value
+		ADDED from [:firebase_core] D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:11:17-82
+	android:name
+		ADDED from [:firebase_core] D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:10:17-124
+service#com.baseflow.geolocator.GeolocatorLocationService
+ADDED from [:geolocator_android] D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\build\geolocator_android\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-12:56
+	android:enabled
+		ADDED from [:geolocator_android] D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\build\geolocator_android\intermediates\library_manifest\debug\AndroidManifest.xml:10:13-35
+	android:exported
+		ADDED from [:geolocator_android] D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\build\geolocator_android\intermediates\library_manifest\debug\AndroidManifest.xml:11:13-37
+	android:foregroundServiceType
+		ADDED from [:geolocator_android] D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\build\geolocator_android\intermediates\library_manifest\debug\AndroidManifest.xml:12:13-53
+	android:name
+		ADDED from [:geolocator_android] D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\build\geolocator_android\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-77
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from [:image_picker] D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from [:image_picker] D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:7:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [:image_picker] D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from [:image_picker] D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:8:22-78
+provider#io.flutter.plugins.imagepicker.ImagePickerFileProvider
+ADDED from [:image_picker] D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:11:9-19:20
+	android:grantUriPermissions
+		ADDED from [:image_picker] D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:15:13-47
+	android:authorities
+		ADDED from [:image_picker] D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-74
+	android:exported
+		ADDED from [:image_picker] D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:14:13-37
+	android:name
+		ADDED from [:image_picker] D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:12:13-82
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:image_picker] D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:16:13-18:75
+	android:resource
+		ADDED from [:image_picker] D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:18:17-72
+	android:name
+		ADDED from [:image_picker] D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:17:17-67
+uses-permission#android.permission.VIBRATE
+ADDED from [:flutter_local_notifications] D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:8:5-66
+	android:name
+		ADDED from [:flutter_local_notifications] D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:8:22-63
+uses-permission#android.permission.USE_FULL_SCREEN_INTENT
+ADDED from [:flutter_local_notifications] D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from [:flutter_local_notifications] D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:9:22-78
+receiver#com.dexterous.flutterlocalnotifications.ScheduledNotificationReceiver
+ADDED from [:flutter_local_notifications] D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:12:9-106
+	android:name
+		ADDED from [:flutter_local_notifications] D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:12:19-103
+receiver#com.dexterous.flutterlocalnotifications.ScheduledNotificationBootReceiver
+MERGED from [:flutter_local_notifications] D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:13:9-20:20
+MERGED from [:flutter_local_notifications] D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:13:9-20:20
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.MY_PACKAGE_REPLACED+action:name:android.intent.action.QUICKBOOT_POWERON+action:name:com.htc.intent.action.QUICKBOOT_POWERON
+ADDED from [:flutter_local_notifications] D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:14:13-19:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from [:flutter_local_notifications] D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:15:17-79
+	android:name
+		ADDED from [:flutter_local_notifications] D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:15:25-76
+action#android.intent.action.MY_PACKAGE_REPLACED
+ADDED from [:flutter_local_notifications] D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:16:17-84
+	android:name
+		ADDED from [:flutter_local_notifications] D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:16:25-81
+action#android.intent.action.QUICKBOOT_POWERON
+ADDED from [:flutter_local_notifications] D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:17:17-82
+	android:name
+		ADDED from [:flutter_local_notifications] D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:17:25-79
+action#com.htc.intent.action.QUICKBOOT_POWERON
+ADDED from [:flutter_local_notifications] D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:18:17-82
+	android:name
+		ADDED from [:flutter_local_notifications] D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:18:25-79
+activity#io.flutter.plugins.urllauncher.WebViewActivity
+ADDED from [:url_launcher_android] D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\build\url_launcher_android\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-11:74
+	android:exported
+		ADDED from [:url_launcher_android] D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\build\url_launcher_android\intermediates\library_manifest\debug\AndroidManifest.xml:10:13-37
+	android:theme
+		ADDED from [:url_launcher_android] D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\build\url_launcher_android\intermediates\library_manifest\debug\AndroidManifest.xml:11:13-71
+	android:name
+		ADDED from [:url_launcher_android] D:\ZamZam-Client-App-old-version\Awlad Salama working version\awlad-salama-app\build\url_launcher_android\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-74
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\ahmed\.gradle\caches\transforms-3\77be2d5d7b67afdcda0797b9a34ef3e3\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\ahmed\.gradle\caches\transforms-3\77be2d5d7b67afdcda0797b9a34ef3e3\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\ahmed\.gradle\caches\transforms-3\77be2d5d7b67afdcda0797b9a34ef3e3\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\ahmed\.gradle\caches\transforms-3\77be2d5d7b67afdcda0797b9a34ef3e3\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\ahmed\.gradle\caches\transforms-3\77be2d5d7b67afdcda0797b9a34ef3e3\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\ahmed\.gradle\caches\transforms-3\77be2d5d7b67afdcda0797b9a34ef3e3\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:29:13-51
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-messaging:23.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\6853b8de5c3f867e4f599976a244bbd4\transformed\firebase-messaging-23.0.0\AndroidManifest.xml:25:5-82
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\bbeea64a1eced6f342405c67b44aa3a8\transformed\play-services-cloud-messaging-17.0.0\AndroidManifest.xml:11:5-82
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\bbeea64a1eced6f342405c67b44aa3a8\transformed\play-services-cloud-messaging-17.0.0\AndroidManifest.xml:11:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:23.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\6853b8de5c3f867e4f599976a244bbd4\transformed\firebase-messaging-23.0.0\AndroidManifest.xml:25:22-79
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-messaging:23.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\6853b8de5c3f867e4f599976a244bbd4\transformed\firebase-messaging-23.0.0\AndroidManifest.xml:28:9-35:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:23.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\6853b8de5c3f867e4f599976a244bbd4\transformed\firebase-messaging-23.0.0\AndroidManifest.xml:30:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-messaging:23.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\6853b8de5c3f867e4f599976a244bbd4\transformed\firebase-messaging-23.0.0\AndroidManifest.xml:31:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:23.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\6853b8de5c3f867e4f599976a244bbd4\transformed\firebase-messaging-23.0.0\AndroidManifest.xml:29:13-78
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:23.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\6853b8de5c3f867e4f599976a244bbd4\transformed\firebase-messaging-23.0.0\AndroidManifest.xml:41:9-48:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:23.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\6853b8de5c3f867e4f599976a244bbd4\transformed\firebase-messaging-23.0.0\AndroidManifest.xml:44:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-messaging:23.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\6853b8de5c3f867e4f599976a244bbd4\transformed\firebase-messaging-23.0.0\AndroidManifest.xml:43:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:23.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\6853b8de5c3f867e4f599976a244bbd4\transformed\firebase-messaging-23.0.0\AndroidManifest.xml:42:13-82
+meta-data#com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar
+ADDED from [com.google.firebase:firebase-messaging:23.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\6853b8de5c3f867e4f599976a244bbd4\transformed\firebase-messaging-23.0.0\AndroidManifest.xml:52:13-54:85
+	android:value
+		ADDED from [com.google.firebase:firebase-messaging:23.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\6853b8de5c3f867e4f599976a244bbd4\transformed\firebase-messaging-23.0.0\AndroidManifest.xml:54:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:23.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\6853b8de5c3f867e4f599976a244bbd4\transformed\firebase-messaging-23.0.0\AndroidManifest.xml:53:17-119
+meta-data#com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar
+ADDED from [com.google.firebase:firebase-datatransport:18.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\0b1b6e1d4c5ec95d55c2c79832bba635\transformed\firebase-datatransport-18.0.0\AndroidManifest.xml:28:13-30:85
+	android:value
+		ADDED from [com.google.firebase:firebase-datatransport:18.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\0b1b6e1d4c5ec95d55c2c79832bba635\transformed\firebase-datatransport-18.0.0\AndroidManifest.xml:30:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-datatransport:18.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\0b1b6e1d4c5ec95d55c2c79832bba635\transformed\firebase-datatransport-18.0.0\AndroidManifest.xml:29:17-115
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar
+ADDED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\4642d3079059ae39eefb036083b6cda2\transformed\firebase-installations-17.0.0\AndroidManifest.xml:18:13-20:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\4642d3079059ae39eefb036083b6cda2\transformed\firebase-installations-17.0.0\AndroidManifest.xml:20:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\4642d3079059ae39eefb036083b6cda2\transformed\firebase-installations-17.0.0\AndroidManifest.xml:19:17-127
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\f6d93879a785e553caa1b14a46e489e2\transformed\firebase-common-20.0.0\AndroidManifest.xml:26:9-31:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\f6d93879a785e553caa1b14a46e489e2\transformed\firebase-common-20.0.0\AndroidManifest.xml:28:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\f6d93879a785e553caa1b14a46e489e2\transformed\firebase-common-20.0.0\AndroidManifest.xml:30:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\f6d93879a785e553caa1b14a46e489e2\transformed\firebase-common-20.0.0\AndroidManifest.xml:29:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\f6d93879a785e553caa1b14a46e489e2\transformed\firebase-common-20.0.0\AndroidManifest.xml:31:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\f6d93879a785e553caa1b14a46e489e2\transformed\firebase-common-20.0.0\AndroidManifest.xml:27:13-77
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\ahmed\.gradle\caches\transforms-3\b873d7d83a92da8a527e5dd9d1fcb8cb\transformed\play-services-maps-18.0.2\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\ahmed\.gradle\caches\transforms-3\b873d7d83a92da8a527e5dd9d1fcb8cb\transformed\play-services-maps-18.0.2\AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\ahmed\.gradle\caches\transforms-3\b873d7d83a92da8a527e5dd9d1fcb8cb\transformed\play-services-maps-18.0.2\AndroidManifest.xml:28:9-32
+package#com.google.android.apps.maps
+ADDED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\ahmed\.gradle\caches\transforms-3\b873d7d83a92da8a527e5dd9d1fcb8cb\transformed\play-services-maps-18.0.2\AndroidManifest.xml:33:9-64
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\ahmed\.gradle\caches\transforms-3\b873d7d83a92da8a527e5dd9d1fcb8cb\transformed\play-services-maps-18.0.2\AndroidManifest.xml:33:18-61
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\ahmed\.gradle\caches\transforms-3\b873d7d83a92da8a527e5dd9d1fcb8cb\transformed\play-services-maps-18.0.2\AndroidManifest.xml:39:9-41:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\ahmed\.gradle\caches\transforms-3\b873d7d83a92da8a527e5dd9d1fcb8cb\transformed\play-services-maps-18.0.2\AndroidManifest.xml:41:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\ahmed\.gradle\caches\transforms-3\b873d7d83a92da8a527e5dd9d1fcb8cb\transformed\play-services-maps-18.0.2\AndroidManifest.xml:40:13-50
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\ahmed\.gradle\caches\transforms-3\a7878483ed13d80545aa2beff7991d79\transformed\play-services-base-18.1.0\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\ahmed\.gradle\caches\transforms-3\a7878483ed13d80545aa2beff7991d79\transformed\play-services-base-18.1.0\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\ahmed\.gradle\caches\transforms-3\a7878483ed13d80545aa2beff7991d79\transformed\play-services-base-18.1.0\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\ahmed\.gradle\caches\transforms-3\a7878483ed13d80545aa2beff7991d79\transformed\play-services-base-18.1.0\AndroidManifest.xml:20:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\ahmed\.gradle\caches\transforms-3\697ad455e067e6c23a522cb2ac20621d\transformed\play-services-basement-18.1.0\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\ahmed\.gradle\caches\transforms-3\697ad455e067e6c23a522cb2ac20621d\transformed\play-services-basement-18.1.0\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\ahmed\.gradle\caches\transforms-3\697ad455e067e6c23a522cb2ac20621d\transformed\play-services-basement-18.1.0\AndroidManifest.xml:22:13-58
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\ahmed\.gradle\caches\transforms-3\d46bb20538aee6d307b7b918a2f6122a\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] C:\Users\ahmed\.gradle\caches\transforms-3\d46bb20538aee6d307b7b918a2f6122a\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\ahmed\.gradle\caches\transforms-3\d46bb20538aee6d307b7b918a2f6122a\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+permission#com.salamasons.stopgroup.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\ahmed\.gradle\caches\transforms-3\d46bb20538aee6d307b7b918a2f6122a\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] C:\Users\ahmed\.gradle\caches\transforms-3\d46bb20538aee6d307b7b918a2f6122a\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\ahmed\.gradle\caches\transforms-3\d46bb20538aee6d307b7b918a2f6122a\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\ahmed\.gradle\caches\transforms-3\d46bb20538aee6d307b7b918a2f6122a\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\ahmed\.gradle\caches\transforms-3\d46bb20538aee6d307b7b918a2f6122a\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+uses-permission#com.salamasons.stopgroup.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\ahmed\.gradle\caches\transforms-3\d46bb20538aee6d307b7b918a2f6122a\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\ahmed\.gradle\caches\transforms-3\d46bb20538aee6d307b7b918a2f6122a\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+service#com.google.android.datatransport.runtime.backends.TransportBackendDiscovery
+ADDED from [com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\9354d6dfa742b4367996261f896e8d34\transformed\transport-backend-cct-3.0.0\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\867de6cd93230dc8d57df8eda8374d0c\transformed\transport-runtime-3.0.0\AndroidManifest.xml:36:9-38:40
+MERGED from [com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\867de6cd93230dc8d57df8eda8374d0c\transformed\transport-runtime-3.0.0\AndroidManifest.xml:36:9-38:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\9354d6dfa742b4367996261f896e8d34\transformed\transport-backend-cct-3.0.0\AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\9354d6dfa742b4367996261f896e8d34\transformed\transport-backend-cct-3.0.0\AndroidManifest.xml:30:13-103
+meta-data#backend:com.google.android.datatransport.cct.CctBackendFactory
+ADDED from [com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\9354d6dfa742b4367996261f896e8d34\transformed\transport-backend-cct-3.0.0\AndroidManifest.xml:32:13-34:39
+	android:value
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\9354d6dfa742b4367996261f896e8d34\transformed\transport-backend-cct-3.0.0\AndroidManifest.xml:34:17-36
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\9354d6dfa742b4367996261f896e8d34\transformed\transport-backend-cct-3.0.0\AndroidManifest.xml:33:17-94
+service#com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService
+ADDED from [com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\867de6cd93230dc8d57df8eda8374d0c\transformed\transport-runtime-3.0.0\AndroidManifest.xml:26:9-30:19
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\867de6cd93230dc8d57df8eda8374d0c\transformed\transport-runtime-3.0.0\AndroidManifest.xml:28:13-37
+	android:permission
+		ADDED from [com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\867de6cd93230dc8d57df8eda8374d0c\transformed\transport-runtime-3.0.0\AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\867de6cd93230dc8d57df8eda8374d0c\transformed\transport-runtime-3.0.0\AndroidManifest.xml:27:13-117
+receiver#com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver
+ADDED from [com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\867de6cd93230dc8d57df8eda8374d0c\transformed\transport-runtime-3.0.0\AndroidManifest.xml:32:9-34:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\867de6cd93230dc8d57df8eda8374d0c\transformed\transport-runtime-3.0.0\AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\867de6cd93230dc8d57df8eda8374d0c\transformed\transport-runtime-3.0.0\AndroidManifest.xml:33:13-132

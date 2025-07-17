@@ -1,27 +1,27 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\ZamZam-Client-App-old-version\\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\\build\\google_maps_flutter_android\\intermediates\\res\\merged\\release\\values-mk\\values-mk.xml",
+            "outputFile": "D:\\ZamZam-Client-App-old-version\\Awlad Salama working version\\zamzam-last-version\\build\\google_maps_flutter_android\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-mk\\values-mk.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\3299b3057460f340e13b4053db114bce\\jetified-play-services-basement-18.0.0\\res\\values-mk\\values.xml",
+                    "source": "C:\\Users\\ahmed\\.gradle\\caches\\transforms-3\\a39558b2c60a2b36e535c8b18493f7fd\\transformed\\play-services-base-18.0.1\\res\\values-mk\\values.xml",
                     "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "195",
-                        "endColumns": "132",
-                        "endOffsets": "327"
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
+                        "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
+                        "startOffsets": "193,296,453,582,688,829,958,1074,1180,1333,1436,1598,1727,1876,2031,2096,2156",
+                        "endColumns": "102,156,128,105,140,128,115,105,152,102,161,128,148,154,64,59,74",
+                        "endOffsets": "295,452,581,687,828,957,1073,1179,1332,1435,1597,1726,1875,2030,2095,2155,2230"
                     },
                     "to": {
-                        "startLines": "10",
-                        "startColumns": "4",
-                        "startOffsets": "1074",
-                        "endColumns": "136",
-                        "endOffsets": "1206"
+                        "startLines": "2,3,4,5,6,7,8,9,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,162,323,456,566,711,844,964,1211,1368,1475,1641,1774,1927,2086,2155,2219",
+                        "endColumns": "106,160,132,109,144,132,119,109,156,106,165,132,152,158,68,63,78",
+                        "endOffsets": "157,318,451,561,706,839,959,1069,1363,1470,1636,1769,1922,2081,2150,2214,2293"
                     }
                 },
                 {
-                    "source": "C:\\Users\\ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\36f51210634ee77bae190e60b7f0c6bd\\core-1.6.0\\res\\values-mk\\values-mk.xml",
+                    "source": "C:\\Users\\ahmed\\.gradle\\caches\\transforms-3\\8664bf4e9979fddea0d8aa54a0040d08\\transformed\\core-1.6.0\\res\\values-mk\\values-mk.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -38,46 +38,46 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\2a785d6e7d84b42dfd652d0e622ed37d\\jetified-play-services-base-18.0.1\\res\\values-mk\\values.xml",
+                    "source": "C:\\Users\\ahmed\\.gradle\\caches\\transforms-3\\626bc44ea36560760d2f85a8d27b6b4a\\transformed\\play-services-basement-18.0.0\\res\\values-mk\\values.xml",
                     "from": {
-                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
-                        "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
-                        "startOffsets": "193,296,453,582,688,829,958,1074,1180,1333,1436,1598,1727,1876,2031,2096,2156",
-                        "endColumns": "102,156,128,105,140,128,115,105,152,102,161,128,148,154,64,59,74",
-                        "endOffsets": "295,452,581,687,828,957,1073,1179,1332,1435,1597,1726,1875,2030,2095,2155,2230"
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "195",
+                        "endColumns": "132",
+                        "endOffsets": "327"
                     },
                     "to": {
-                        "startLines": "2,3,4,5,6,7,8,9,11,12,13,14,15,16,17,18,19",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,162,323,456,566,711,844,964,1211,1368,1475,1641,1774,1927,2086,2155,2219",
-                        "endColumns": "106,160,132,109,144,132,119,109,156,106,165,132,152,158,68,63,78",
-                        "endOffsets": "157,318,451,561,706,839,959,1069,1363,1470,1636,1769,1922,2081,2150,2214,2293"
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "1074",
+                        "endColumns": "136",
+                        "endOffsets": "1206"
                     }
                 }
             ]
         },
         {
-            "outputFile": "D:\\ZamZam-Client-App-old-version\\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\\build\\google_maps_flutter_android\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-mk\\values-mk.xml",
+            "outputFile": "D:\\ZamZam-Client-App-old-version\\Awlad Salama working version\\zamzam-last-version\\build\\google_maps_flutter_android\\intermediates\\res\\merged\\release\\values-mk\\values-mk.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\3299b3057460f340e13b4053db114bce\\jetified-play-services-basement-18.0.0\\res\\values-mk\\values.xml",
+                    "source": "C:\\Users\\ahmed\\.gradle\\caches\\transforms-3\\a39558b2c60a2b36e535c8b18493f7fd\\transformed\\play-services-base-18.0.1\\res\\values-mk\\values.xml",
                     "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "195",
-                        "endColumns": "132",
-                        "endOffsets": "327"
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
+                        "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
+                        "startOffsets": "193,296,453,582,688,829,958,1074,1180,1333,1436,1598,1727,1876,2031,2096,2156",
+                        "endColumns": "102,156,128,105,140,128,115,105,152,102,161,128,148,154,64,59,74",
+                        "endOffsets": "295,452,581,687,828,957,1073,1179,1332,1435,1597,1726,1875,2030,2095,2155,2230"
                     },
                     "to": {
-                        "startLines": "10",
-                        "startColumns": "4",
-                        "startOffsets": "1074",
-                        "endColumns": "136",
-                        "endOffsets": "1206"
+                        "startLines": "2,3,4,5,6,7,8,9,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,162,323,456,566,711,844,964,1211,1368,1475,1641,1774,1927,2086,2155,2219",
+                        "endColumns": "106,160,132,109,144,132,119,109,156,106,165,132,152,158,68,63,78",
+                        "endOffsets": "157,318,451,561,706,839,959,1069,1363,1470,1636,1769,1922,2081,2150,2214,2293"
                     }
                 },
                 {
-                    "source": "C:\\Users\\ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\36f51210634ee77bae190e60b7f0c6bd\\core-1.6.0\\res\\values-mk\\values-mk.xml",
+                    "source": "C:\\Users\\ahmed\\.gradle\\caches\\transforms-3\\8664bf4e9979fddea0d8aa54a0040d08\\transformed\\core-1.6.0\\res\\values-mk\\values-mk.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -94,20 +94,20 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\2a785d6e7d84b42dfd652d0e622ed37d\\jetified-play-services-base-18.0.1\\res\\values-mk\\values.xml",
+                    "source": "C:\\Users\\ahmed\\.gradle\\caches\\transforms-3\\626bc44ea36560760d2f85a8d27b6b4a\\transformed\\play-services-basement-18.0.0\\res\\values-mk\\values.xml",
                     "from": {
-                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
-                        "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
-                        "startOffsets": "193,296,453,582,688,829,958,1074,1180,1333,1436,1598,1727,1876,2031,2096,2156",
-                        "endColumns": "102,156,128,105,140,128,115,105,152,102,161,128,148,154,64,59,74",
-                        "endOffsets": "295,452,581,687,828,957,1073,1179,1332,1435,1597,1726,1875,2030,2095,2155,2230"
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "195",
+                        "endColumns": "132",
+                        "endOffsets": "327"
                     },
                     "to": {
-                        "startLines": "2,3,4,5,6,7,8,9,11,12,13,14,15,16,17,18,19",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,162,323,456,566,711,844,964,1211,1368,1475,1641,1774,1927,2086,2155,2219",
-                        "endColumns": "106,160,132,109,144,132,119,109,156,106,165,132,152,158,68,63,78",
-                        "endOffsets": "157,318,451,561,706,839,959,1069,1363,1470,1636,1769,1922,2081,2150,2214,2293"
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "1074",
+                        "endColumns": "136",
+                        "endOffsets": "1206"
                     }
                 }
             ]

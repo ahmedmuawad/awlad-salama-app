@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\ZamZam-Client-App-old-version\\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\\build\\app\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
+            "outputFile": "D:\\ZamZam-Client-App-old-version\\Awlad Salama working version\\awlad-salama-app\\build\\app\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
             "map": [
                 {
-                    "source": "D:\\ZamZam-Client-App-old-version\\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\\android\\app\\src\\main\\res\\values-night\\styles.xml",
+                    "source": "D:\\ZamZam-Client-App-old-version\\Awlad Salama working version\\awlad-salama-app\\android\\app\\src\\main\\res\\values-night\\styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",

@@ -30,34 +30,44 @@ class _SplashScreenState extends State<SplashScreen> {
   StreamSubscription<ConnectivityResult> _onConnectivityChanged;
   LatLng currentPostion;
   List<Branches> _branches = [];
-  bool _isAvailable ;
-  String index ;
+  bool _isAvailable;
+  String index;
+
   @override
   void dispose() {
-    super.dispose();
-
     _onConnectivityChanged.cancel();
+    super.dispose();
   }
 
-  void _getUserLocation() async {
-    var position = await GeolocatorPlatform.instance
-        .getCurrentPosition(desiredAccuracy: LocationAccuracy.high);
+  Future<void> _getUserLocation() async {
+    LocationPermission permission = await Geolocator.checkPermission();
 
-    setState(() {
-      currentPostion = LatLng(position.latitude, position.longitude);
-    });
+    if (permission == LocationPermission.denied || permission == LocationPermission.deniedForever) {
+      permission = await Geolocator.requestPermission();
+      if (permission != LocationPermission.always && permission != LocationPermission.whileInUse) {
+        print("Location permission denied");
+        return;
+      }
+    }
+
+    try {
+      Position position = await Geolocator.getCurrentPosition(desiredAccuracy: LocationAccuracy.high);
+      setState(() {
+        currentPostion = LatLng(position.latitude, position.longitude);
+      });
+    } catch (e) {
+      print("Error getting location: $e");
+    }
   }
 
   @override
   void initState() {
     super.initState();
 
-
     bool _firstTime = true;
     _onConnectivityChanged = Connectivity().onConnectivityChanged.listen((ConnectivityResult result) {
-      if(!_firstTime) {
+      if (!_firstTime) {
         bool isNotConnected = result != ConnectivityResult.wifi && result != ConnectivityResult.mobile;
-        print('-----------------${isNotConnected ? 'Not' : 'Yes'}');
         isNotConnected ? SizedBox() : ScaffoldMessenger.of(context).hideCurrentSnackBar();
         ScaffoldMessenger.of(context).showSnackBar(SnackBar(
           backgroundColor: isNotConnected ? Colors.red : Colors.green,
@@ -67,7 +77,7 @@ class _SplashScreenState extends State<SplashScreen> {
             textAlign: TextAlign.center,
           ),
         ));
-        if(!isNotConnected) {
+        if (!isNotConnected) {
           _route();
         }
       }
@@ -77,77 +87,27 @@ class _SplashScreenState extends State<SplashScreen> {
     Provider.of<SplashProvider>(context, listen: false).initSharedData();
     Provider.of<CartProvider>(context, listen: false).getCartData();
 
-    //_getUserLocation();
+    _getUserLocation(); // ✅ إعادة التفعيل هنا
     _route();
   }
 
   void _route() {
     Provider.of<SplashProvider>(context, listen: false).initConfig(context).then((bool isSuccess) {
-      /*if (isSuccess) {
-        _branches = Provider.of<SplashProvider>(context, listen: false).configModel.branches;
-        _isAvailable = _branches.length == 1 && (_branches[0].latitude == null || _branches[0].latitude.isEmpty);
-        if(Provider.of<SplashProvider>(context, listen: false).configModel.maintenanceMode) {
-          Navigator.pushNamedAndRemoveUntil(context, RouteHelper.getMaintenanceRoute(), (route) => false);
-        }else {
-          if(!_isAvailable) {
-            double _distance = Geolocator.distanceBetween(
-              double.parse(_branches[0].latitude), double.parse(_branches[0].longitude),
-                currentPostion.latitude,currentPostion.longitude ,
-            ) / 1000;
-            _isAvailable = _distance < _branches[0].coverage;
-          }
-
-          if(_isAvailable){
-            index = '0' ;
-            print('index ====================================== $index');
-            Timer(Duration(seconds: 3), () async {
-              if (Provider.of<AuthProvider>(context, listen: false).isLoggedIn()) {
-                Provider.of<AuthProvider>(context, listen: false).updateToken();
-                Navigator.of(context).pushNamedAndRemoveUntil(RouteHelper.set_lang, (route) => false, arguments: LanguageScreen(isFirst: false));
-              } else {
-                *//*Navigator.push(
-                  context,
-                  MaterialPageRoute(
-                      builder: (context) =>
-                          OnBoardingScreen(index: index,)),
-                );*//*
-                Navigator.pushAndRemoveUntil(context,  MaterialPageRoute(builder: (context) => OnBoardingScreen(index: index,)), (route) => false);
-                //Navigator.pushNamedAndRemoveUntil(context, RouteHelper.onBoarding, (route) => false, arguments: OnBoardingScreen(index: index,));
-              }
-            });
-
-          }else{
-            index = '1' ;
-            print('index ====================================== $index');
-            Timer(Duration(seconds: 1), () async {
-              if (Provider.of<AuthProvider>(context, listen: false).isLoggedIn()) {
-                Provider.of<AuthProvider>(context, listen: false).updateToken();
-                Navigator.of(context).pushNamedAndRemoveUntil(RouteHelper.set_lang, (route) => false, arguments: LanguageScreen(isFirst: false,));
-              } else {
-                Navigator.pushNamedAndRemoveUntil(context, RouteHelper.onBoarding, (route) => false, arguments: OnBoardingScreen(index: index,));
-              }
-            });
-          }
-
-        }
-      }*/
       Timer(Duration(seconds: 3), () async {
         if (Provider.of<AuthProvider>(context, listen: false).isLoggedIn()) {
           Provider.of<AuthProvider>(context, listen: false).updateToken();
-          Navigator.of(context).pushNamedAndRemoveUntil(RouteHelper.set_lang, (route) => false, arguments: LanguageScreen(isFirst: false));
+          Navigator.of(context).pushNamedAndRemoveUntil(
+              RouteHelper.set_lang, (route) => false,
+              arguments: LanguageScreen(isFirst: false));
         } else {
-          /*Navigator.push(
-                  context,
-                  MaterialPageRoute(
-                      builder: (context) =>
-                          OnBoardingScreen(index: index,)),
-                );*/
-          Navigator.pushAndRemoveUntil(context,  MaterialPageRoute(builder: (context) => OnBoardingScreen(index: index,)), (route) => false);
-          //Navigator.pushNamedAndRemoveUntil(context, RouteHelper.onBoarding, (route) => false, arguments: OnBoardingScreen(index: index,));
+          Navigator.pushAndRemoveUntil(
+              context,
+              MaterialPageRoute(
+                  builder: (context) => OnBoardingScreen(index: index)),
+                  (route) => false);
         }
       });
     });
-
   }
 
   @override
@@ -159,17 +119,13 @@ class _SplashScreenState extends State<SplashScreen> {
         mainAxisAlignment: MainAxisAlignment.center,
         crossAxisAlignment: CrossAxisAlignment.stretch,
         children: [
-
-          Image.asset(Images.splash_animation, height: 130, ),
+          Image.asset(Images.splash_animation, height: 130),
           SizedBox(height: 10),
-          Image.asset(Images.app_logo,width: MediaQuery.of(context).size.width, height: 100, color: Theme.of(context).primaryColor),
+          Image.asset(Images.app_logo,
+              width: MediaQuery.of(context).size.width,
+              height: 100,
+              color: Theme.of(context).primaryColor),
           SizedBox(height: 30),
-          /*Text(AppConstants.APP_NAME,
-              textAlign: TextAlign.center,
-              style: poppinsMedium.copyWith(
-                color: Theme.of(context).primaryColor,
-                fontSize: 50,
-              )),*/
         ],
       ),
     );

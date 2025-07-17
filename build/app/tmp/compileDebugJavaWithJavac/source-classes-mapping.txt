@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/salamasons/stopgroup/BuildConfig.java
+ com.salamasons.stopgroup.BuildConfig

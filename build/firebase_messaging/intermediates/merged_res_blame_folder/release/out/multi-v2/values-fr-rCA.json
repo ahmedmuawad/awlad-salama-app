@@ -1,27 +1,27 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\ZamZam-Client-App-old-version\\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\\build\\firebase_messaging\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-fr-rCA\\values-fr-rCA.xml",
+            "outputFile": "D:\\ZamZam-Client-App-old-version\\Awlad Salama working version\\zamzam-last-version\\build\\firebase_messaging\\intermediates\\res\\merged\\release\\values-fr-rCA\\values-fr-rCA.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\8ab66f3c09f98ef347b81d37f97e6abf\\jetified-firebase-messaging-23.0.0\\res\\values-fr-rCA\\values.xml",
+                    "source": "C:\\Users\\ahmed\\.gradle\\caches\\transforms-3\\8664bf4e9979fddea0d8aa54a0040d08\\transformed\\core-1.6.0\\res\\values-fr-rCA\\values-fr-rCA.xml",
                     "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "211",
-                        "endColumns": "70",
-                        "endOffsets": "281"
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
                     },
                     "to": {
-                        "startLines": "3",
+                        "startLines": "4",
                         "startColumns": "4",
-                        "startOffsets": "325",
-                        "endColumns": "74",
-                        "endOffsets": "395"
+                        "startOffsets": "400",
+                        "endColumns": "100",
+                        "endOffsets": "496"
                     }
                 },
                 {
-                    "source": "C:\\Users\\ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\5ceb91ed9e4e5e16320c0759db87309f\\jetified-play-services-basement-17.0.0\\res\\values-fr-rCA\\values.xml",
+                    "source": "C:\\Users\\ahmed\\.gradle\\caches\\transforms-3\\aa5e58222b57d24d2e8d72ba712ffd41\\transformed\\play-services-basement-17.0.0\\res\\values-fr-rCA\\values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -38,46 +38,46 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\36f51210634ee77bae190e60b7f0c6bd\\core-1.6.0\\res\\values-fr-rCA\\values-fr-rCA.xml",
+                    "source": "C:\\Users\\ahmed\\.gradle\\caches\\transforms-3\\6853b8de5c3f867e4f599976a244bbd4\\transformed\\firebase-messaging-23.0.0\\res\\values-fr-rCA\\values.xml",
                     "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "211",
+                        "endColumns": "70",
+                        "endOffsets": "281"
                     },
                     "to": {
-                        "startLines": "4",
+                        "startLines": "3",
                         "startColumns": "4",
-                        "startOffsets": "400",
-                        "endColumns": "100",
-                        "endOffsets": "496"
+                        "startOffsets": "325",
+                        "endColumns": "74",
+                        "endOffsets": "395"
                     }
                 }
             ]
         },
         {
-            "outputFile": "D:\\ZamZam-Client-App-old-version\\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\\build\\firebase_messaging\\intermediates\\res\\merged\\release\\values-fr-rCA\\values-fr-rCA.xml",
+            "outputFile": "D:\\ZamZam-Client-App-old-version\\Awlad Salama working version\\zamzam-last-version\\build\\firebase_messaging\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-fr-rCA\\values-fr-rCA.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\8ab66f3c09f98ef347b81d37f97e6abf\\jetified-firebase-messaging-23.0.0\\res\\values-fr-rCA\\values.xml",
+                    "source": "C:\\Users\\ahmed\\.gradle\\caches\\transforms-3\\8664bf4e9979fddea0d8aa54a0040d08\\transformed\\core-1.6.0\\res\\values-fr-rCA\\values-fr-rCA.xml",
                     "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "211",
-                        "endColumns": "70",
-                        "endOffsets": "281"
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
                     },
                     "to": {
-                        "startLines": "3",
+                        "startLines": "4",
                         "startColumns": "4",
-                        "startOffsets": "325",
-                        "endColumns": "74",
-                        "endOffsets": "395"
+                        "startOffsets": "400",
+                        "endColumns": "100",
+                        "endOffsets": "496"
                     }
                 },
                 {
-                    "source": "C:\\Users\\ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\5ceb91ed9e4e5e16320c0759db87309f\\jetified-play-services-basement-17.0.0\\res\\values-fr-rCA\\values.xml",
+                    "source": "C:\\Users\\ahmed\\.gradle\\caches\\transforms-3\\aa5e58222b57d24d2e8d72ba712ffd41\\transformed\\play-services-basement-17.0.0\\res\\values-fr-rCA\\values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -94,20 +94,20 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\36f51210634ee77bae190e60b7f0c6bd\\core-1.6.0\\res\\values-fr-rCA\\values-fr-rCA.xml",
+                    "source": "C:\\Users\\ahmed\\.gradle\\caches\\transforms-3\\6853b8de5c3f867e4f599976a244bbd4\\transformed\\firebase-messaging-23.0.0\\res\\values-fr-rCA\\values.xml",
                     "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "211",
+                        "endColumns": "70",
+                        "endOffsets": "281"
                     },
                     "to": {
-                        "startLines": "4",
+                        "startLines": "3",
                         "startColumns": "4",
-                        "startOffsets": "400",
-                        "endColumns": "100",
-                        "endOffsets": "496"
+                        "startOffsets": "325",
+                        "endColumns": "74",
+                        "endOffsets": "395"
                     }
                 }
             ]

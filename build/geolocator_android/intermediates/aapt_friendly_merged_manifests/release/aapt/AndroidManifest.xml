@@ -4,4 +4,12 @@
 
     <uses-sdk android:minSdkVersion="16" />
 
+    <application>
+        <service
+            android:name="com.baseflow.geolocator.GeolocatorLocationService"
+            android:enabled="true"
+            android:exported="false"
+            android:foregroundServiceType="location" />
+    </application>
+
 </manifest>

@@ -1,27 +1,27 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\ZamZam-Client-App-old-version\\ZamZam-Client-App-41747379f83ff825333b68766b217d2155cfed4c\\build\\app\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-ml\\values-ml.xml",
+            "outputFile": "D:\\ZamZam-Client-App-old-version\\Awlad Salama working version\\awlad-salama-app\\build\\app\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-ml\\values-ml.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\2a785d6e7d84b42dfd652d0e622ed37d\\jetified-play-services-base-18.0.1\\res\\values-ml\\values.xml",
+                    "source": "C:\\Users\\ahmed\\.gradle\\caches\\transforms-3\\942ab5ef91787ae82df9833aac9eb358\\transformed\\exoplayer-core-2.18.1\\res\\values-ml\\values-ml.xml",
                     "from": {
-                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
-                        "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
-                        "startOffsets": "193,308,483,618,735,895,1016,1117,1219,1397,1509,1679,1811,1956,2113,2173,2238",
-                        "endColumns": "114,174,134,116,159,120,100,101,177,111,169,131,144,156,59,64,87",
-                        "endOffsets": "307,482,617,734,894,1015,1116,1218,1396,1508,1678,1810,1955,2112,2172,2237,2325"
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,126,187,259,329,406,487,590,687",
+                        "endColumns": "70,60,71,69,76,80,102,96,77",
+                        "endOffsets": "121,182,254,324,401,482,585,682,760"
                     },
                     "to": {
-                        "startLines": "2,3,4,5,6,7,8,9,11,12,13,14,15,16,17,18,19",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,174,353,492,613,777,902,1007,1273,1455,1571,1745,1881,2030,2191,2255,2324",
-                        "endColumns": "118,178,138,120,163,124,104,105,181,115,173,135,148,160,63,68,91",
-                        "endOffsets": "169,348,487,608,772,897,1002,1108,1450,1566,1740,1876,2025,2186,2250,2319,2411"
+                        "startLines": "20,21,22,23,24,25,26,27,28",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "2416,2487,2548,2620,2690,2767,2848,2951,3048",
+                        "endColumns": "70,60,71,69,76,80,102,96,77",
+                        "endOffsets": "2482,2543,2615,2685,2762,2843,2946,3043,3121"
                     }
                 },
                 {
-                    "source": "C:\\Users\\ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\f01fb30c78a2763078b64e90f11051c1\\core-1.7.0\\res\\values-ml\\values-ml.xml",
+                    "source": "C:\\Users\\ahmed\\.gradle\\caches\\transforms-3\\d46bb20538aee6d307b7b918a2f6122a\\transformed\\core-1.9.0\\res\\values-ml\\values-ml.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -38,24 +38,24 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\8ab66f3c09f98ef347b81d37f97e6abf\\jetified-firebase-messaging-23.0.0\\res\\values-ml\\values.xml",
+                    "source": "C:\\Users\\ahmed\\.gradle\\caches\\transforms-3\\a7878483ed13d80545aa2beff7991d79\\transformed\\play-services-base-18.1.0\\res\\values-ml\\values.xml",
                     "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "207",
-                        "endColumns": "68",
-                        "endOffsets": "275"
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
+                        "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
+                        "startOffsets": "193,308,483,618,735,895,1016,1117,1219,1397,1509,1679,1811,1956,2113,2173,2238",
+                        "endColumns": "114,174,134,116,159,120,100,101,177,111,169,131,144,156,59,64,87",
+                        "endOffsets": "307,482,617,734,894,1015,1116,1218,1396,1508,1678,1810,1955,2112,2172,2237,2325"
                     },
                     "to": {
-                        "startLines": "29",
-                        "startColumns": "4",
-                        "startOffsets": "3126",
-                        "endColumns": "72",
-                        "endOffsets": "3194"
+                        "startLines": "2,3,4,5,6,7,8,9,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,174,353,492,613,777,902,1007,1273,1455,1571,1745,1881,2030,2191,2255,2324",
+                        "endColumns": "118,178,138,120,163,124,104,105,181,115,173,135,148,160,63,68,91",
+                        "endOffsets": "169,348,487,608,772,897,1002,1108,1450,1566,1740,1876,2025,2186,2250,2319,2411"
                     }
                 },
                 {
-                    "source": "C:\\Users\\ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\3299b3057460f340e13b4053db114bce\\jetified-play-services-basement-18.0.0\\res\\values-ml\\values.xml",
+                    "source": "C:\\Users\\ahmed\\.gradle\\caches\\transforms-3\\697ad455e067e6c23a522cb2ac20621d\\transformed\\play-services-basement-18.1.0\\res\\values-ml\\values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -72,20 +72,20 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\c6bec50dbf24814d801c54b11adaee65\\jetified-exoplayer-core-2.18.1\\res\\values-ml\\values-ml.xml",
+                    "source": "C:\\Users\\ahmed\\.gradle\\caches\\transforms-3\\6853b8de5c3f867e4f599976a244bbd4\\transformed\\firebase-messaging-23.0.0\\res\\values-ml\\values.xml",
                     "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10",
-                        "startColumns": "4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,126,187,259,329,406,487,590,687",
-                        "endColumns": "70,60,71,69,76,80,102,96,77",
-                        "endOffsets": "121,182,254,324,401,482,585,682,760"
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "207",
+                        "endColumns": "68",
+                        "endOffsets": "275"
                     },
                     "to": {
-                        "startLines": "20,21,22,23,24,25,26,27,28",
-                        "startColumns": "4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "2416,2487,2548,2620,2690,2767,2848,2951,3048",
-                        "endColumns": "70,60,71,69,76,80,102,96,77",
-                        "endOffsets": "2482,2543,2615,2685,2762,2843,2946,3043,3121"
+                        "startLines": "29",
+                        "startColumns": "4",
+                        "startOffsets": "3126",
+                        "endColumns": "72",
+                        "endOffsets": "3194"
                     }
                 }
             ]
